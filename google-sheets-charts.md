@@ -6,5 +6,5 @@ parent: Workshop Activities
 ---
 # Google Sheets Bar, Pie and Bubble Charts
 
-[NEXT STEP: Earn A Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Earn A Workshop Badge](informal-credentials.html){: .btn .btn-blue }<br> 
 [Coming Soon: Storymap JS Narrative Gigapixel Maps](storymap-gigapixel-map.html){: .btn .btn-blue }
