@@ -3,7 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
+## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with various softwares in order to enhance and develop your data visualization and mapping skills.  To participate fully please do the following **before the workshop**:
 
 **30 minutes.**<br>
