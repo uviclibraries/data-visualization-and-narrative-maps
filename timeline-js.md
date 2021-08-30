@@ -5,8 +5,7 @@ nav_order: 9
 parent: Workshop Activities
 ---
 # TimeLine JS
-Example:<br>
-<script src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1s45s1S3LH7ukGOA8fsmI8weK-rgDwRK6i-TMPe6rhcM&font=Default&lang=en&initial_zoom=2&height=800"></script>
+[Example](https://goo.gl/rJFHyw){:target="_blank"}
 
 Under Development!<br>
 
