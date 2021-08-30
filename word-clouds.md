@@ -4,7 +4,7 @@ title: 2-Word Clouds
 nav_order: 3
 parent: Workshop Activities
 ---
-# Word Art (Word Clouds)
+# Word Clouds with Word Art
 Word clouds are data visualizations that display words in a given dataset, sized according to frequency: the more frequent a word is, the larger it is. WordArt is a free, web-based app for creating word clouds.
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
