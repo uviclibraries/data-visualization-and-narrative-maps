@@ -45,18 +45,18 @@ In this exercise, you will create visualizations map region and maker visualizat
 - In a few seconds, your map will populate with blue markers indicating the location of all the private parking lots in the city of Victoria. Note that when you click on a blue marker a dialogue box will pop up giving you additional information from the spreadsheet.
 
 5. **Marker Formatting options:** Let’s change the colour and shape of the markers.
-<img src="images/maps-06.png" style="float:right;width:230px" alt="All Items Colour bucket">
+<img src="images/maps-06.png" style="float:right;width:240px" alt="All Items Colour bucket">
 - On the left side menu, click on the little **grey paint bucket** to the right of the **All items** menu (see image to right).
 - A popup menu will appear. Select your favourite colour for the icon, and change the icon into a different shape.
 
 6. **Editing the underlying data in Google My Maps**. You can always make changes in your Google Sheet and re-import the data, however for small changes it is usually quicker to make minor changes in Google My Maps.
-<img src="images/maps-07.png" style="float:right;width:240px;height:200px;" alt="Three grey dots and editing menu">
+<img src="images/maps-07.png" style="float:right;width:240px" alt="Three grey dots and editing menu">
 - Start by clicking on the **three grey dots** to the right of Private_Parking_lots.csv, then select **Open data table**.
 - Double click on any cells you want to edit. When you’re finished editing click the **x** in the top right of the table.
 - You can also edit by clicking on the icon for a parking lot and then press the pencil button on the bottom row of the card.
 
 7. **Sharing options**:
-<img src="images/maps-08.png" style="float:right;width:240px;height:200px;" alt="three grey dots and sharing options">
+<img src="images/maps-08.png" style="float:right;width:240px" alt="three grey dots and sharing options">
 - To share this map publicly on the web, or with individual people, click on the grey **Share** button in the left navigation menu. To make the map public, click on the blue **Change**… button, and then select **On - Public on the web**. Click Save.
 - To share with individuals enter the email addresses of the people you want to share with and then press **Send** and then **Done**.
 - To embed in a website, click on the 3 grey dots to the right of the map name (see above). Next Select **Embed on my site** and copy and paste the HTML code into a public web page.
