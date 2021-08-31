@@ -20,10 +20,9 @@ Note: To get the degree symbol use Alt+0 for Mac and Ctrl+0176 (make sure number
 ![Add first location textbox](images/storymap-03.png)
 6. To add a heading and description of your slide, use the text boxes at the bottom. 
 
-7. <img src="images/storymap-04.png" style="float:right;width:180px" alt="Marker icon example"> To change the background for your slide or change your location marker icon, click on **Background Options** or **Marker Options** at the very bottom of the screen.  
+7. <img src="images/storymap-04.png" style="float:right;width:150px" alt="Marker icon example"> To change the background for your slide or change your location marker icon, click on **Background Options** or **Marker Options** at the very bottom of the screen.  
       - Background Colour: Use the colour wheel to adjust the background colour 
-     <img src="images/storymap-05.png" style="float:right;width:180px" alt="Image as marker">
-      - Image: To add an image from your computer click **Choose File**.  Alternatively, paste a URL link to an online photo. Right-click on the desired photo and select **Copy Image Address**, and then paste into the text box beneath **Background image**. 
+      - Image: To add an image from your computer click **Choose File**. <img src="images/storymap-05.png" style="float:right;width:150px" alt="Image as marker"> Alternatively, paste a URL link to an online photo. Right-click on the desired photo and select **Copy Image Address**, and then paste into the text box beneath **Background image**. 
 
 8. To review your changes, click **Preview** at the top of the page. 
 
