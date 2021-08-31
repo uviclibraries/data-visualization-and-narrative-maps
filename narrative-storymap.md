@@ -8,11 +8,11 @@ parent: Workshop Activities
 StoryMap JS is a web-based tool for creating narrative maps. You can use traditional cartographical maps (such as road maps) using the regular StoryMap format. You can also use images of historical maps or any other images using the Gigapixel Map feature. The instructions below take you through the process of creating a StoryMap. The sample project shown below can be found at [this link](http://bit.ly/2UtMoh5){:target="_blank"}.
 
 1. Go to [StoryMap](https://storymap.knightlab.com/){:target="_blank"} and click the green Make a StoryMap button.
-
+![StoryMap Make a Story Button](images/storymap-01.png)
 2. Sign in with your Google account. If you need to create one go [here](https://accounts.google.com/){:target="_blank"} 
 
 3. Click the green **New** button, then enter a title for your StoryMap. Click the green **Create** button.
-
+<img src="images/storymap-02.png" style="float:right;width:180px" alt="Add Slide button">
 4. To add your first location, click on **Add Slide** in the far left column.
 
 5. Once you have done this, a red box will appear on the map, prompting you to add your first location.  You can enter either the name of a location e.g. “St. John’s Newfoundland” or its latitude/longitude coordinates in the following format: **lat:<123.31°W>, lon:<48.46°N>**<br>
