@@ -24,9 +24,8 @@ In this exercise, you will create visualizations ranging from a pie chart to a b
 - Congratulations, you have created a bar graph chart showing the average ticket price, compared to the highest ticket price for each play!<br>
 <img src="images/sheets-05.png" style="width:300px" alt="bar graph">
 4. **Pie Chart**:
-<img src="images/sheets-06.png" style="float;right;width:250px" alt="pie chart button">
-- At the very bottom of the Google Sheet, click on the “Pie Chart” tab. <img src="images/sheets-07.png" style="float:right;width:250px" alt="pie charts">
-- Start by selecting the top-left cell of the spreadsheet with “**Show**” in it, and then drag and let go once you’ve reached the “**$575,000,000**” cell to the bottom right (exactly like you did in step #2 on the previous page).
+- At the very bottom of the Google Sheet, click on the “Pie Chart” tab. <img src="images/sheets-06.png" style="float;right;width:250px" alt="pie chart button">
+- <img src="images/sheets-07.png" style="float:right;width:250px" alt="pie charts"> Start by selecting the top-left cell of the spreadsheet with “**Show**” in it, and then drag and let go once you’ve reached the “**$575,000,000**” cell to the bottom right (exactly like you did in step #2 on the previous page).
 - Next click on the “**Insert**” menu, and then, “**Chart**”. 
 - Now let’s change this bar chart into a nice looking Pie Chart. Look on the right navigation bar that just appeared, and click on the little triangle to the right of the “Column chart” and then select the pie chart with the hole in the middle. 
 - To change the title of the chart, double click on the title in the chart, “**Total Revenue vs. Show**”, and change the title to something more descriptive like, “Broadway Play Revenue Percentage”.
