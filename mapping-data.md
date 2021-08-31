@@ -4,10 +4,10 @@ title: 3-Mapping Data with Google Sheets & MyMaps
 nav_order: 4
 parent: Workshop Activities
 ---
-<img src="images/maps-01.png" style="float:right;width:240px;height:200px;" alt="map of parking example">
+<img src="images/maps-01.png" style="float:right;width:300px" alt="map of parking example">
 # Mapping Data with Google Sheets & Google My Maps
 In this exercise, you will create visualizations map region and maker visualizations using Google Sheets and Open Data from the city of Victoria BC. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. 
-<img src="images/maps-02.png" style="float:right;width:180px" alt="transportation and parking symbol">
+<img src="images/maps-02.png" style="float:right;width:150px" alt="transportation and parking symbol">
 1. Open [**Google Drive**](https://drive.google.com/){:target="_blank"} and make sure that you are logged in.
 
 2. Open a new tab in your web browser, and then open the [**City of Victoria’s open data repository** website](http://opendata.victoria.ca){:target="_blank"}
@@ -16,7 +16,7 @@ In this exercise, you will create visualizations map region and maker visualizat
 - Click on the green **Data** tab.
 - Click on the **Download** button to the right, and then select Spreadsheet. (use this link if you have problems finding the [file](http://bit.ly/31wBewm){:target="_blank"}). Save the Private_Parking_lots.csv file in a location where you will be able to find it.
 - Open your **Google Drive** tab in your web browser.
-<img src="images/maps-03.png" style="float:right;width:100px" alt="Google new button">
+<img src="images/maps-03.png" style="float:right;width:120px" alt="Google new button">
 - Click on the **New** button on the top left, and then select **File upload**.
 - In the file browser, find the **Private_Parking_lots.csv** file that you just downloaded, and then select it and click **Open** to upload it to your Google Drive. 
 - Open this sheet in Google Drive so you can see what the data looks like.
@@ -45,7 +45,7 @@ In this exercise, you will create visualizations map region and maker visualizat
 - In a few seconds, your map will populate with blue markers indicating the location of all the private parking lots in the city of Victoria. Note that when you click on a blue marker a dialogue box will pop up giving you additional information from the spreadsheet.
 
 5. **Marker Formatting options:** Let’s change the colour and shape of the markers.
-<img src="images/maps-06.png" style="float:right;width:240px;height:200px;" alt="All Items Colour bucket">
+<img src="images/maps-06.png" style="float:right;width:230px" alt="All Items Colour bucket">
 - On the left side menu, click on the little **grey paint bucket** to the right of the **All items** menu (see image to right).
 - A popup menu will appear. Select your favourite colour for the icon, and change the icon into a different shape.
 
@@ -64,7 +64,7 @@ In this exercise, you will create visualizations map region and maker visualizat
 8. **Extra Credit**: Add another layer to your map - City of Victoria parkades:
 - Download the [private parkade data](http://bit.ly/2MVGNRX){:target="_blank"}  and then save it to a place where you can find it on your computer.
 - Open your **Google Drive** tab in your web browser.
-<img src="images/maps-09.png" style="float:right;width:100px" alt="Google new button">
+<img src="images/maps-09.png" style="float:right;width:120px" alt="Google new button">
 - Click on the **New** button on the top left, and then select **File upload**.
 - In the file browser, find the **City_Parkades.csv** file that you just downloaded, and then select it and click **Open** to upload it to your Google Drive. 
 - Use the instructions in section #3 & #4 to geocode new data and import it into Google Maps. 
