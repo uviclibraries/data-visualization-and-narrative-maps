@@ -18,12 +18,12 @@ In this exercise, you will create visualizations ranging from a pie chart to a b
 - Congratulations, you have created a bar graph chart showing revenue for several famous Broadway plays!
 - Note that if you want to modify your chart, on the right hand of the spreadsheet there is a “**Chart editor**” toolbar. Most of the interesting settings are under the “**Customize**” tab.<br>
 <img src="images/sheets-03.png" style="width:280px" alt="bar graph example">
-3. **Bar Graph with two columns of data**: <img src="images/sheets-04.png" style="float:right;width:400px" alt="data example">
-- Stay on the same spreadsheet and select the top-left cell of the spreadsheet with “**Show**” in it, and then drag to the bottom cell of column “**A**” with “**Les Miserables**”. On a Mac, hold down the “**command**” button (on a PC hold down the “Ctrl” button) and then select “**Average Ticket**”, and then drag to the bottom of column “**D**” with “**225**” in the cell.
+3. **Bar Graph with two columns of data**: 
+- <img src="images/sheets-04.png" style="float:right;width:400px" alt="data example"> Stay on the same spreadsheet and select the top-left cell of the spreadsheet with “**Show**” in it, and then drag to the bottom cell of column “**A**” with “**Les Miserables**”. On a Mac, hold down the “**command**” button (on a PC hold down the “Ctrl” button) and then select “**Average Ticket**”, and then drag to the bottom of column “**D**” with “**225**” in the cell.
 - Next click on the “**Insert**” menu, and then, “**Chart**”. 
 - Congratulations, you have created a bar graph chart showing the average ticket price, compared to the highest ticket price for each play!<br>
 <img src="images/sheets-05.png" style="width:300px" alt="bar graph">
-4. <img src="images/sheets-06.png" style="float;right;width:250px" alt="pie chart button"> Pie Chart: 
+4. **Pie Chart**: <img src="images/sheets-06.png" style="float;right;width:250px" alt="pie chart button">
 - At the very bottom of the Google Sheet, click on the “Pie Chart” tab. <img src="images/sheets-07.png" style="float:right;width:250px" alt="pie charts">
 - Start by selecting the top-left cell of the spreadsheet with “**Show**” in it, and then drag and let go once you’ve reached the “**$575,000,000**” cell to the bottom right (exactly like you did in step #2 on the previous page).
 - Next click on the “**Insert**” menu, and then, “**Chart**”. 
