@@ -28,9 +28,9 @@ In this exercise, you will create visualizations ranging from a pie chart to a b
 - Start by selecting the top-left cell of the spreadsheet with “**Show**” in it, and then drag and let go once you’ve reached the “**$575,000,000**” cell to the bottom right (exactly like you did in step #2 on the previous page).
 - Next click on the “**Insert**” menu, and then, “**Chart**”. 
 - Now let’s change this bar chart into a nice looking Pie Chart. Look on the right navigation bar that just appeared, and click on the little triangle to the right of the “Column chart” and then select the pie chart with the hole in the middle. 
-- To change the title of the chart, double click on the title in the chart, “**Total Revenue vs. Show**”, and change the title to something more descriptive like, “Broadway Play Revenue Percentage”.<img src="images/sheets-08.png" style="float:right;width:250px" alt="revenue vs show pie chart">
+- To change the title of the chart, double click on the title in the chart, “**Total Revenue vs. Show**”, and change the title to something more descriptive like, “Broadway Play Revenue Percentage”.
 - Congratulations, you’ve created a beautiful doughnut pie chart! 
-
+<img src="images/sheets-08.png" style="width:300px" alt="revenue vs show pie chart">
 5. **Bubble chart**: <img src="images/sheets-09.png" style="float:right;width:250px" alt="bubble chart">
 - At the very bottom of the Google Sheet, click on the “**Bubble Chart**” tab.
 - Start by selecting the top-left cell of the spreadsheet with “**Show**” in it, and then drag and let go once you’ve reached the “**$575,000,000**” cell to the bottom right (exactly like you did in step #2 on the previous page).
