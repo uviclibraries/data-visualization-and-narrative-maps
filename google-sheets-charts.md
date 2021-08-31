@@ -22,9 +22,8 @@ In this exercise, you will create visualizations ranging from a pie chart to a b
 - Stay on the same spreadsheet and select the top-left cell of the spreadsheet with “**Show**” in it, and then drag to the bottom cell of column “**A**” with “**Les Miserables**”. On a Mac, hold down the “**command**” button (on a PC hold down the “Ctrl” button) and then select “**Average Ticket**”, <img src="images/sheets-05.png" style="float:right;width:300px" alt="bar graph"> and then drag to the bottom of column “**D**” with “**225**” in the cell.
 - Next click on the “**Insert**” menu, and then, “**Chart**”. 
 - Congratulations, you have created a bar graph chart showing the average ticket price, compared to the highest ticket price for each play!
-
-4. Pie Chart: <img src="images/sheets-07.png" style="float:right;width:250px" alt="pie charts">
 <img src="images/sheets-06.png" style="width:250px" alt="pie chart button">
+4. Pie Chart: <img src="images/sheets-07.png" style="float:right;width:250px" alt="pie charts">
 - At the very bottom of the Google Sheet, click on the “Pie Chart” tab.
 - Start by selecting the top-left cell of the spreadsheet with “**Show**” in it, and then drag and let go once you’ve reached the “**$575,000,000**” cell to the bottom right (exactly like you did in step #2 on the previous page).
 - Next click on the “**Insert**” menu, and then, “**Chart**”. 
