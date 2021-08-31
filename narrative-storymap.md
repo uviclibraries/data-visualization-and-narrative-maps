@@ -11,10 +11,10 @@ StoryMap JS is a web-based tool for creating narrative maps. You can use traditi
 ![StoryMap Make a Story Button](images/storymap-01.png)
 2. Sign in with your Google account. If you need to create one go [here](https://accounts.google.com/){:target="_blank"} 
 
-3. Click the green **New** button, then enter a title for your StoryMap. Click the green **Create** button.
+3. Click the green **New** button, then enter a title for your StoryMap. Click the green **Create** button.  <img src="images/storymap-02.png" style="float:right;width:200px" alt="Add Slide Button">
 
 4. To add your first location, click on **Add Slide** in the far left column.
-![Add Slide Button](images/storymap-02.png)
+
 5. Once you have done this, a red box will appear on the map, prompting you to add your first location.  You can enter either the name of a location e.g. “St. John’s Newfoundland” or its latitude/longitude coordinates in the following format: **lat:<123.31°W>, lon:<48.46°N>**<br>
 Note: To get the degree symbol use Alt+0 for Mac and Ctrl+0176 (make sure number lock is on!) for Windows.
 ![Add first location textbox](images/storymap-03.png)
