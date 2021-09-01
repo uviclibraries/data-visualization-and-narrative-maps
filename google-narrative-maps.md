@@ -9,14 +9,13 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 - Famous biologist Jane Goodall’s exploration in Gombee, Tanzania [here](tiny.cc/p0x9kz){:target="_blank"}
 - The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"} 
 <img src="images/narrative-01.png" style="float:right;width:120px" alt="projects button and menu">
-**Creating Your Google Earth Project** 
-1. Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left 
+
+1. **Creating Your Google Earth Project**: Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left 
 2. Click on **Projects** and then the light blue **New Project** button at the bottom. 
 Note: There will be a prompt for you to sign into a Google Account once you click **New Project**. If you need to create one go [here](https://accounts.google.com/){:target="_blank"} <img src="images/narrative-02.png" style="float:right;width:200px" alt="new project button">
 ![Demonstration of Getting Started](images/narrative-03.gif)
 3. **Adding to Your Google Earth Project**
 - Once you have done this, you can add your first location, route, or slide by clicking on the light blue **New Feature** drop-down menu.
-
 4. Location 
 - To add a location, click on **Search to add place** and type in the location’s name.  A red marker will appear at your chosen location 
 - You can choose to add this to your project by clicking on **Add to project** (located beneath the area description at the right ). 
