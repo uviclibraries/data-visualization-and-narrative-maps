@@ -24,8 +24,8 @@ Note: There will be a prompt for you to sign into a Google Account once you clic
 ![Demonstration of Adding a placemark](images/narrative-08.gif)
 <img src="images/narrative-09.png" style="float:right;width:220px" alt="edit feature icon">
 - If you would like to add a title, description, photo, or link click on the pencil icon **Edit feature**. 
-- To add a photo or video, click on the top box that has a camera icon. 
-- For photos, there are several options for uploading: computer file, google images, google drive, or using a URL. You can add as many photos and/or videos as you’d like! <img src="images/narrative-10.png" style="float:right;width:200px" alt="adding photo/video"> 
+- To add a photo or video, click on the top box that has a camera icon. <img src="images/narrative-10.png" style="float:right;width:200px" alt="adding photo/video"> 
+- For photos, there are several options for uploading: computer file, google images, google drive, or using a URL. You can add as many photos and/or videos as you’d like! 
 ![Demonstration of uploading a photo and description](images/narrative-11.gif)
 5. **Location View**
 - To change the view that appears when a location on your map is clicked on, hover your mouse over your chosen location and click on the pencil icon **Edit feature**. Google Earth will move to this location and show you an aerial view.
