@@ -9,9 +9,8 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 - Famous biologist Jane Goodall’s exploration in Gombee, Tanzania [here](tiny.cc/p0x9kz){:target="_blank"}
 - The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"}   
 
-<img src="images/narrative-01.png" style="float;right;width:180px" alt="menu projects">
+**Creating Your Google Earth Project** <img src="images/narrative-01.png" style="float;right;width:150px" alt="menu projects">
 <img src="images/narrative-02.png" style="float;right;width:220px" alt="new project icon">
-**Creating Your Google Earth Project**
 1. Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left
 2. Click on **Projects** and then the light blue **New Project** button at the bottom.
 Note: There will be a prompt for you to sign into a Google Account once you click **New Project**. If you need to create one go [here](https://accounts.google.com/){:target="_blank"}
@@ -42,11 +41,11 @@ Note: There will be a prompt for you to sign into a Google Account once you clic
 ![Demonstration of different views](images/narrative-14.gif)
 - To get a Street View, go to the bottom right corner and click on 
 - Next, click on the location on your map in which you would like to set your view from.  Note: you will be limited to the areas that are highlighted in light blue.
-- Once you have clicked on this location, Google Earth will zoom in and switch to a real-image 3D view of it.
+- Once you have clicked on this location, Google Earth will zoom in and switch to a real-image 3D view of it.<br>
 ![Demonstration of zooming in](images/narrative-16.gif)
 - To change the view, repeat the steps for the 2D example (Note: no need to use SHIFT to rotate and tilt; the mouse does everything)
 - Alternatively, using the search bar in the left column, you can search a specific place that is in your area and use that (in the example at the right, Bruce Hall is a centre in Channel-Port Aux Basques, NL that Terry Fox made a speech at during his Marathon of Hope) and click **Add to project**, giving it the name of the overall location (e.g. Channel-Port Aux Basques)
-- Once you’re happy with your view, click on **Capture this view** which will then prompt you to save the location.) 
+- Once you’re happy with your view, click on **Capture this view** which will then prompt you to save the location.)<br>
 ![Demonstration of capturing the view](images/narrative-18.gif)
 6. Route
 - Selecting the **Draw line or shape** will allow you to create a route. To do this, click on your desired starting location and move your mouse to your next location.  When you reach this next location, click again and continue to make as many points as you’d like!  To complete the path, press **ENTER** when you’re at your final point. You have now made a route! 
