@@ -10,9 +10,8 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 - The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"}   
 
 **Creating Your Google Earth Project** <img src="images/narrative-01.png" style="float;right;width:150px" alt="menu projects">
-<img src="images/narrative-02.png" style="float;right;width:220px" alt="new project icon">
 1. Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left
-2. Click on **Projects** and then the light blue **New Project** button at the bottom.
+2. Click on **Projects** and then the light blue **New Project** button at the bottom. <img src="images/narrative-02.png" style="float;right;width:220px" alt="new project icon">
 Note: There will be a prompt for you to sign into a Google Account once you click **New Project**. If you need to create one go [here](https://accounts.google.com/){:target="_blank"}
 ![Demonstration of Getting Started](images/narrative-03.gif)
 3. **Adding to Your Google Earth Project**
