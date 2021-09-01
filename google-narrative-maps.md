@@ -7,11 +7,11 @@ parent: Workshop Activities
 # Google Earth Narrative Maps 
 Google Earth is a multiplatform and web program that uses aerial photography, superimposed images, and GIS data to create a 3D representation of the earth.  Users can enter addresses and geographical coordinates to view areas at various ages. In 2019, Google added creativity options that would allow individuals to tell their own stories using 3D street views, aerial footage, placemarks, routes, shapes, and descriptive text. Here are two examples:
 - Famous biologist Jane Goodall’s exploration in Gombee, Tanzania [here](tiny.cc/p0x9kz){:target="_blank"}
-- The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"}   
+- The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"} <img src="images/narrative-01.png" style="float;right;width:150px" alt="menu projects">   
 
-**Creating Your Google Earth Project** <img src="images/narrative-01.png" style="float;right;width:150px" alt="menu projects">
-1. Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left
-2. Click on **Projects** and then the light blue **New Project** button at the bottom. <img src="images/narrative-02.png" style="float;right;width:220px" alt="new project icon">
+**Creating Your Google Earth Project** 
+1. Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left <img src="images/narrative-02.png" style="float;right;width:220px" alt="new project icon">
+2. Click on **Projects** and then the light blue **New Project** button at the bottom. 
 Note: There will be a prompt for you to sign into a Google Account once you click **New Project**. If you need to create one go [here](https://accounts.google.com/){:target="_blank"}
 ![Demonstration of Getting Started](images/narrative-03.gif)
 3. **Adding to Your Google Earth Project**
