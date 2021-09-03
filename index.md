@@ -18,8 +18,9 @@ Participants will be able to do the following by the end of this workshop:
 1. Be aware of why “cleaning” data is necessary & clean it a Google Sheet or Excel Spreadsheet.
 3. Create a Google Sheets visualizations 
 9. Find open data online (e.g. City of Seattle, City of Victoria)
-10. Create a story based multimedia map using Storymap JS 
-11. Createa a timeline multimedia narritive using Timeline JS 
+10. Create a Google Map using open data
+11. Create a story based multimedia map using Storymap JS 
+12. Createa a timeline multimedia narritive using Timeline JS 
 13. Create a customized Word Cloud
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
