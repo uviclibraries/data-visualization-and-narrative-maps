@@ -9,4 +9,4 @@ parent: Workshop Activities
 
 Under Development!<br>
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Google Earth Narrative Maps](google-narrative-maps.html){: .btn .btn-blue }
