@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2-Word Clouds
-nav_order: 3
+title: 8-Word Clouds
+nav_order: 8
 parent: Workshop Activities
 ---
 <img src="images/word-clouds-01.png" style="float:right;width:240px;height:200px;" alt="word cloud example">
