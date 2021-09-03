@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 8-Word Clouds
-nav_order: 8
+title: 7-Word Clouds
+nav_order: 7
 parent: Workshop Activities
 ---
 <img src="images/word-clouds-01.png" style="float:right;width:240px;height:200px;" alt="word cloud example">
@@ -44,4 +44,4 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 17. Great job! Congratulations on making your first word cloud with Word Art!
 
-[NEXT STEP: Mapping Data with Google Sheets and Google My Maps](mapping-data.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
