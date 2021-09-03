@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Google Sheets
+title: 7-Google Sheets
 nav_order: 7
 parent: Workshop Activities
 ---
