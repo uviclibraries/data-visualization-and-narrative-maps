@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3-Mapping Data with Google Sheets & MyMaps
-nav_order: 4
+title: 2-Mapping Data with Google Sheets & MyMaps
+nav_order: 2
 parent: Workshop Activities
 ---
 <img src="images/maps-01.png" style="float:right;width:300px" alt="map of parking example">
