@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Google Earth Narrative Maps
+title: 6-Google Earth Narrative Maps
 nav_order: 6
 parent: Workshop Activities
 ---
