@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 4-Narrative Maps with StoryMap JS
-nav_order: 5
+title: 3-Narrative Maps with StoryMap JS
+nav_order: 3
 parent: Workshop Activities
 ---
 # Narrative Maps with StoryMap JS
@@ -34,4 +34,4 @@ Note: To get the degree symbol use Alt+0 for Mac and Ctrl+0176 (make sure number
 ![Example of URL link to upload project](images/storymap-07.png)
 12. Congratulations on creating your first StoryMap!
 
-[NEXT STEP: Google Earth Narrative Maps](google-narrative-maps.html){: .btn .btn-blue }
+[NEXT STEP: TimeLine JS](timeline-js.html){: .btn .btn-blue }
