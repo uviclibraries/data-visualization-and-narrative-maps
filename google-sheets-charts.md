@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 7-Google Sheets
-nav_order: 7
+title: 6-Google Sheets
+nav_order: 6
 parent: Workshop Activities
 ---
 <img src="images/sheets-01.png" style="float:right;width:180px" alt="Google sheets logo">
