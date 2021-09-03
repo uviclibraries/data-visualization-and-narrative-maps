@@ -43,5 +43,4 @@ In this exercise, you will create visualizations ranging from a pie chart to a b
 <img src="images/sheets-11.png" style="width:300px" alt="Bubble chart example"><br>
 Great job!
 
-[NEXT STEP: Earn A Workshop Badge](informal-credentials.html){: .btn .btn-blue }<br> 
-[Coming Soon: Storymap JS Narrative Gigapixel Maps](storymap-gigapixel-map.html){: .btn .btn-blue }
+[NEXT STEP: Word Clouds](word-clouds.html){: .btn .btn-blue }<br> 
