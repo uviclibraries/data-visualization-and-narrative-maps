@@ -17,8 +17,9 @@ TimeLine JS is a free web-based tool for creating narrative timelines. Timelines
 
 3. If prompted, sign into your Google account. If you need a Google account, make one at [accounts.google.com](https://accounts.google.com){:target="_blank"}. Click **Make a Copy** when prompted.
 
-[Example](https://goo.gl/rJFHyw){:target="_blank"}
+4. Change the title of the spreadsheet to match your project.
 
+5. In the Google Spreadhseet, create a title slide by entering a headline, text and media into row 2 of the spreadsheet. Do not add dates to this slide. In column P, select **title** to set this as the title slide.
 
 Under Development!<br>
 
