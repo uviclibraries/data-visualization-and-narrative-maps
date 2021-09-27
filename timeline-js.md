@@ -35,7 +35,7 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 [<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)<br>
 
 7. Enter the first building data into your spreadsheet:
-- 
+- Next step here...
 
 8. Under Development!<br>
 
