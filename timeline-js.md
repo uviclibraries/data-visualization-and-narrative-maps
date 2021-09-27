@@ -17,9 +17,11 @@ TimeLine JS is a free web-based tool for creating narrative timelines. Timelines
 
 3. <img src="images/timeline-template.png" style="float:right;width:300px;" alt="Copy the Google Sheets template">Your Timeline will be built from the data you enter into a pre-formatted Google Spreadsheet. To create a spreadsheet, copy the template provided for you by clicking on the **Get the Spreaqdsheet Template** button. 
 
-4. If prompted, sign into your Google account. If you need a Google account, make one at [accounts.google.com](https://accounts.google.com){:target="_blank"}. Click **Make a Copy** when prompted.
+4. If prompted, sign into your Google account. If you need a Google account, make one at [accounts.google.com](https://accounts.google.com){:target="_blank"}. 
+- Click **Make a Copy** when prompted.
 
 5. Change the title of the spreadsheet to match your project. If you are using the provided imaages and dates, you might want to name your spreadsheet, "**UVic Buildings Over Time**."
+<img src="images/timeline-change-title.png" style="float:right;width:500px;" alt="Change Timeline spreadsheet title">
 
 6. In the Google Spreadhseet, create a title slide by entering a headline, text and media into row 2 of the spreadsheet. Do not add dates to this slide. In column P, select **title** to set this as the title slide.
 
