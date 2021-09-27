@@ -32,7 +32,7 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 - Add the media credit to field **M2**. For example: <code>R. W. Siddall</code>.
 - Add the media description to field **N2**. For example: <code>An architectural painting of the Gordon Head campus in 1961.</code>.
 - Make sure that in **column P**, **title** is selected from the drop down menu (see below).
-[<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)
+[<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)<br>
 
 7. Enter the first building data into your spreadsheet:
 - 
