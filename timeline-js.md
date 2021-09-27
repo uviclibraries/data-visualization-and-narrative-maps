@@ -29,7 +29,8 @@ TimeLine JS is a free web-based tool for creating narrative timelines. Timelines
 ```
 This is a 'title' slide, so it doesn't need a date. It automatically occurs first, and doesn't appear in the timeline below.The images on this timeline are from the <a href="http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/">Victoria Modern website</a>.
 ```
-- Add an image to the title page by copying and pasting the following image URL into field **L2**: <code>http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/Gordon_Head_Campus/images/large/Projected-Plan-Rev1961-b.jpg</code>
+- Add an image to the title page by copying and pasting a URL into field **L2**: For example copy the following image URL into **L2**: <code>http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/Gordon_Head_Campus/images/large/Projected-Plan-Rev1961-b.jpg</code>
+- Add the media credit to field **M2**. For example: <code>R. W. Siddall</code>.
 - media into row 2 of the spreadsheet. Do not add dates to this slide. Make sure that in column P, **title** to selected from the drop down menu.
 [<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)
 
