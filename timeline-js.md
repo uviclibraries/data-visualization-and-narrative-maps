@@ -24,9 +24,10 @@ TimeLine JS is a free web-based tool for creating narrative timelines. Timelines
 <img src="images/timeline-change-title.png" style="width:400px;" alt="Change Timeline spreadsheet title">
 
 6. In the Google Spreadhseet, create a title slide by doing the following:
-- Enter a headline for your timeline in J2. For example, <code>UVic Buildings Over Time</code>.
-- Next add some text and media into row 2 of the spreadsheet. Do not add dates to this slide. Make sure that in column P, **title** to selected from the drop down menu.
-[<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"}
+- Enter a headline for your timeline in cell **J2** (see below). For example, <code>UVic Buildings Over Time</code>.
+- Next add some text giveing more details about your time line in cell **K2** (see below). For example, <code>This is a test of using google spreadsheets as a source for the timeline tool. This is a 'title' slide, so it doesn't need a date. It automatically occurs first, and doesn't appear in the timeline below.The images on this timeline are from the <a href="http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/">Victoria Modern website</a>.</code>.
+- media into row 2 of the spreadsheet. Do not add dates to this slide. Make sure that in column P, **title** to selected from the drop down menu.
+[<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)
 
 Under Development!<br>
 
