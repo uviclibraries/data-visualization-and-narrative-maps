@@ -12,12 +12,15 @@ TimeLine JS is a free web-based tool for creating narrative timelines. Timelines
 1. Go to the [Make a TimeLine JS](https://timeline.knightlab.com/){:target="_blank"} and click on the **Make a Timeline** button.
 <img src="images/timeline-make.png" style="width:300px" alt="TimeLine JS Make Button">
 
-2. Your Timeline will be built from the data you enter into a pre-formatted Google Spreadsheet. To create a spreadsheet, copy the template provided for you by clicking on the **Get the Spreaqdsheet Template** button. 
-<img src="images/timeline-template.png" style="float:right;width:300px;" alt="Copy the Google Sheets template">
+2. <img src="images/timeline-template.png" style="float:right;width:300px;" alt="Copy the Google Sheets template">Your Timeline will be built from the data you enter into a pre-formatted Google Spreadsheet. To create a spreadsheet, copy the template provided for you by clicking on the **Get the Spreaqdsheet Template** button. 
 
 3. If prompted, sign into your Google account. If you need a Google account, make one at [accounts.google.com](https://accounts.google.com){:target="_blank"}. Click **Make a Copy** when prompted.
 
-4. Change the title of the spreadsheet to match your project. We encourage you to create a timeline of a topic of interest to you, but if you don't have access to photos or dates relating to your topic, you can ...
+4. Change the title of the spreadsheet to match your project. 
+- We encourage you to create a timeline of a topic of interest to you, but if you don't have access to photos or dates relating to your topic, you can making a timeline useing the photos of your favourite UVic Buildings and consturction dates from the [Victoria Modern website](http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/){:target="_blank"}. 
+- The examples in the rest of this activity will use images and dates from the Victoria Modern website.
+
+5. Download and make note
 
 5. In the Google Spreadhseet, create a title slide by entering a headline, text and media into row 2 of the spreadsheet. Do not add dates to this slide. In column P, select **title** to set this as the title slide.
 
