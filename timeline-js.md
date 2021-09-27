@@ -31,7 +31,8 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 ```
 - Add an image to the title page by copying and pasting a URL into field **L2**: For example copy the following image URL into **L2**: <code>http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/Gordon_Head_Campus/images/large/Projected-Plan-Rev1961-b.jpg</code>
 - Add the media credit to field **M2**. For example: <code>R. W. Siddall</code>.
-- media into row 2 of the spreadsheet. Do not add dates to this slide. Make sure that in column P, **title** to selected from the drop down menu.
+- Add the media description to field **N2**. For example: <code>An architectural painting of the Gordon Head campus in 1961.</code>.
+- Make sure that in **column P**, **title** is selected from the drop down menu (see below).
 [<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)
 
 7. 
