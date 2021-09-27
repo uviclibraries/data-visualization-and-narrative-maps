@@ -35,8 +35,9 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 - Make sure that in **column P**, **title** is selected from the drop down menu (see below).
 [<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)
 
-7. 
+7. Enter the first building data into your spreadsheet:
+- 
 
-Under Development!<br>
+8. Under Development!<br>
 
 [NEXT STEP: Google Earth Narrative Maps](google-narrative-maps.html){: .btn .btn-blue }
