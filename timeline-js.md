@@ -36,8 +36,8 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 [<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)<br>
 
 7. Now you will enter the data for the first timeline item into your spreadsheet:
-- Find a picture of the first item for your timeline. For example if you wanted to use the UVic Student Union Building for the first item on your timeline, [open this web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/SUB/){:target="_blank"}.
-- <img src="images/timeline-image-url.png" style="float:right;width:300px;" alt="Copy the URL for an image">If you are using the Chrome web browser, **right mouse click** on the photo you would like to use, and then select **Copy image address**. 
+- <img src="images/timeline-image-url.png" style="float:right;width:300px;" alt="Copy the URL for an image">Find a picture of the first item for your timeline. For example if you wanted to use the UVic Student Union Building for the first item on your timeline, [open this web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/SUB/){:target="_blank"}.
+- If you are using the Chrome web browser, **right mouse click** on the photo you would like to use, and then select **Copy image address**. 
   - In Firefox you would **Copy Image Location**. 
   - In Microsft Edge browser select, **Copy image link**.
 - Paste the web address for the image in cell **L3** of the spreadsheet.
