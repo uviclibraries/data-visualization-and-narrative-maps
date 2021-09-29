@@ -29,13 +29,13 @@ TimeLine JS is a free web-based tool for creating narrative timelines. Timelines
 ```
 This is a 'title' slide, so it doesn't need a date. It automatically occurs first, and doesn't appear in the timeline below.The images on this timeline are from the <a href="http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/">Victoria Modern website</a>.
 ```
-- Add an image to the title page by copying and pasting a URL into field **L2** (see below): For example copy the following image URL into **L2**: <code>http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/Gordon_Head_Campus/images/large/Projected-Plan-Rev1961-b.jpg</code>
-- Add the media credit to field **M2** (see below). For example: <code>R. W. Siddall</code>.
-- Add the media description to field **N2** (see below). For example: <code>An architectural painting of the Gordon Head campus in 1961.</code>.
+- Add an image to the title page by copying and pasting a URL into field **L2** (see below): For example copy the following image URL into **L2**:<br> <code>http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/Gordon_Head_Campus/images/large/Projected-Plan-Rev1961-b.jpg</code>
+- Add the media credit to field **M2** (see below). For example:<br> <code>R. W. Siddall</code>.
+- Add the media description to field **N2** (see below). For example:<br> <code>An architectural painting of the Gordon Head campus in 1961.</code>.
 - Make sure that in **column P**, **title** is selected from the drop down menu (see below).<br>
 [<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)<br>
 
-7. Enter the first building data into your spreadsheet:
+7. Now you will enter the first building data into your spreadsheet:
 - Next step here...
 
 8. Under Development!<br>
