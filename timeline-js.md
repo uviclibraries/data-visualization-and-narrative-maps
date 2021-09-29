@@ -31,12 +31,16 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 ```
 - Add an image to the title page by copying and pasting a URL into field **L2** (see below): For example copy the following image URL into **L2**:<br> <code>http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/Gordon_Head_Campus/images/large/Projected-Plan-Rev1961-b.jpg</code>
 - Add the media credit to field **M2** (see below). For example:<br> <code>R. W. Siddall</code>.
-- Add the media description to field **N2** (see below). For example:<br> <code>An architectural painting of the Gordon Head campus in 1961.</code>.
+- Add the media description to field **N2** (see below). For example:<br> <code>An architectural painting of the Gordon Head campus in 1961.</code>
 - Make sure that in **column P**, **title** is selected from the drop down menu (see below).<br>
 [<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)<br>
 
-7. Now you will enter the first building data into your spreadsheet:
-- Next step here...
+7. Now you will enter the data for the first timeline item into your spreadsheet:
+- Find a picture of the first item for your timeline. For example if you wanted to use the UVic Student Union Building for the first item on your timeline, [open this web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/SUB/){:target="_blank"}.
+- <img src="images/timeline-image-url.png" style="float:right;width:300px;" alt="Copy the URL for an image">If you are using the Chrome web browser, **right mouse click** on the photo you would like to use, and then select **Copy image address**. 
+  - In Firefox you would **Copy Image Location**. 
+  - In Microsft Edge browser select, **Copy image link**.
+- Paste the web address for the image in cell **L3** of the spreadsheet.
 
 8. Under Development!<br>
 
