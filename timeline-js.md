@@ -64,7 +64,9 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 - Choose a building from [this web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/){:target="_blank"}.
 
 10. Publish your timeline - Step 1
-- Under the File menu, Share submenu, select “Publish to the Web.”
+- Under the File menu, Share submenu, select “Publish to the Web.”<br>
 <img src="images/timline-publish-to-web.png" alt="Publish spreadsheet to the web">
+- In the next window, click the green "Publish" button. When asked, "Are you sure…?" click OK. Ignore the URL that appears in the center of the window. Just close the window using the X in the top right corner.
+- 
 
 [NEXT STEP: Google Earth Narrative Maps](google-narrative-maps.html){: .btn .btn-blue }
