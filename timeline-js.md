@@ -35,7 +35,7 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 - Make sure that in **column P**, **title** is selected from the drop down menu (see below).<br>
 [<img src="images/timeline-title-slide.png" alt="Add title slide">](images/timeline-title-slide.png){:target="_blank"} (Click to enlarge photo)<br>
 
-7. Now you will enter the data for the first timeline item into your spreadsheet:
+7. Now you will enter the data for the first timeline item into your spreadsheet (Student Union Building):
 - <img src="images/timeline-image-url.png" style="float:right;width:300px;" alt="Copy the URL for an image">Find a picture of the first item for your timeline. For example if you wanted to use the UVic Student Union Building for the first item on your timeline, [open this web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/SUB/){:target="_blank"}.
 - If you are using the Chrome web browser, **right mouse click** on the photo you would like to use, and then select **Copy image address**. 
   - In Firefox you would **Copy Image Location**. 
@@ -48,8 +48,19 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 - Update **cell M3** with the media credit: <code>John A. Di Castri</code>
 - Update **cell N3** with the media caption: <code>An architectural painting of the Student Union Building.</code>
 
-7. **More here...**
+8. Next enter the data for the second timeline item into your spreadsheet (Clearihue Building - A Wing):
+- <img src="images/timeline-image-url.png" style="float:right;width:300px;" alt="Copy the URL for an image">Find a picture of the first item for your timeline. For example if you wanted to use the UVic Student Union Building for the first item on your timeline, [open this web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/SUB/){:target="_blank"}.
+- If you are using the Chrome web browser, **right mouse click** on the photo you would like to use, and then select **Copy image address**. 
+  - In Firefox you would **Copy Image Location**. 
+  - In Microsft Edge browser select, **Copy image link**.
+- Paste the web address for the image in cell **L3** of the spreadsheet.
+- The origional building was constructed between May 1962 and March 1965, so **edit the two date fields in row 3** of the spreadsheet to match the image below:
+<img src="images/timeline-date-1.png" alt="Add start and end date to the spreadsheet">
+- Update **cell J3** with the building name: <code>Student Union Building</code>
+- Update **cell K3** with the building with as much or as little of the description as you want by copying and pasting from the [Student Union web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/SUB/){:target="_blank"}.
+- Update **cell M3** with the media credit: <code>John A. Di Castri</code>
+- Update **cell N3** with the media caption: <code>An architectural painting of the Student Union Building.</code>
 
-8. Under Development!<br>
+9. Under Development!<br>
 
 [NEXT STEP: Google Earth Narrative Maps](google-narrative-maps.html){: .btn .btn-blue }
