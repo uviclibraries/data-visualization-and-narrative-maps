@@ -41,6 +41,9 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
   - In Firefox you would **Copy Image Location**. 
   - In Microsft Edge browser select, **Copy image link**.
 - Paste the web address for the image in cell **L3** of the spreadsheet.
+- The origional building was constructed between May 1962 and March 1965, so **edit row 3** of the spreadsheet to match the image below:
+<img src="images/timeline-date-1.png" alt="Add start and end date to the spreadsheet">
+- 
 
 8. Under Development!<br>
 
