@@ -44,7 +44,11 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 - The origional building was constructed between May 1962 and March 1965, so **edit the two date fields in row 3** of the spreadsheet to match the image below:
 <img src="images/timeline-date-1.png" alt="Add start and end date to the spreadsheet">
 - Update **cell J3** with the building name: <code>Student Union Building</code>
-- Update **cell K3** with the building description that you can copy and paste from the...
+- Update **cell K3** with the building with as much or as little of the description as you want by copying and pasting from the [Student Union web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/buildings/SUB/){:target="_blank"}.
+- Update **cell M3** with the media credit: <code>John A. Di Castri</code>
+- Update **cell N3** with the media caption: <code>An architectural painting of the Student Union Building.</code>
+
+7. **More here...**
 
 8. Under Development!<br>
 
