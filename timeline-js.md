@@ -62,7 +62,7 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 
 9. Next enter the data for a third timeline following the steps above for a different building on campus: Feel free to choose a building from [this web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/){:target="_blank"}.
 
-10. Publish your timeline Spreadsheet:
+10. Publish your timeline spreadsheet:
 - Under the **File** menu -> **Share** -> **Publish to the Web**.<br>
 <img src="images/timeline-publish-to-web.png" alt="Publish spreadsheet to the web">
 - In the next window, click the green **Publish** button. When asked, "Are you sure…?" click **OK**. Ignore the URL that appears in the center of the window. Just **close the window using the X** in the top right corner.<br>
@@ -70,7 +70,10 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 - After you close the window, **copy the URL in your browser's address bar**. You'll use this in the next step.<br>
 <img src="images/timeline-step-3.png" alt="Publish spreadsheet to the web">
 
-11. Create your timeline:
+11. Create your timeline on the TimelineJS website:
+- Open the [TimeLine JS web page](https://timeline.knightlab.com/#make){:target="_blank"}, and scroll down to Step 3 - Generate your timeline.
+- Paste your Google Spreadsheet URL in the field in step 3.
+
 - https://timeline.knightlab.com/ **Step 2 & 4...**
 
 [NEXT STEP: Google Earth Narrative Maps](google-narrative-maps.html){: .btn .btn-blue }
