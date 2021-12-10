@@ -9,7 +9,8 @@ parent: Workshop Activities
 
 TimeLine JS is a free web-based tool for creating narrative timelines. Timelines can include media like photos, and are created using Google Sheets. The instructions below take you through the process of creating a TimeLine. Take a look at this sample TimeLine JS project which is a [timeline of building construction on campus at UVic](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1s45s1S3LH7ukGOA8fsmI8weK-rgDwRK6i-TMPe6rhcM&font=Default&lang=en&initial_zoom=2&height=650){:target="_blank"}.
 
-1. <img src="images/timeline-make.png" style="float:right;width:300px;" alt="TimeLine JS Make Button">Go to the [Make a TimeLine JS](https://timeline.knightlab.com/){:target="_blank"} and click on the **Make a Timeline** button.
+1. Go to the [Make a TimeLine JS](https://timeline.knightlab.com/){:target="_blank"} and click on the **Make a Timeline** button.<br>
+<img src="images/timeline-make.png" style="width:300px;" alt="TimeLine JS Make Button">
 
 2. Determine what topic you will use for your timeline, keeping in mind that you will need easy access to images and dates for your topic.
 - We encourage you to create a timeline of a topic of interest to you, but if you don't have access to photos or dates relating to your topic, you can making a timeline using the provided photos of your favourite UVic buildings from the [Victoria Modern website](http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/){:target="_blank"}. 
