@@ -63,7 +63,7 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 9. Next enter the data for a third timeline following the steps above for a different building on campus: Feel free to choose a building from [this web page](https://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/){:target="_blank"}.
 
 10. Publish your timeline Spreadsheet:
-- Under the File menu, Share submenu, select **Publish to the Web**.<br>
+- Under the **File** menu -> **Share** -> **Publish to the Web**.<br>
 <img src="images/timeline-publish-to-web.png" alt="Publish spreadsheet to the web">
 - In the next window, click the green **Publish** button. When asked, "Are you sure…?" click **OK**. Ignore the URL that appears in the center of the window. Just **close the window using the X** in the top right corner.<br>
 <img src="images/timeline-step-2.png" alt="Publish spreadsheet to the web">
