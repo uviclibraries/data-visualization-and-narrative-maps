@@ -64,11 +64,11 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 
 10. Publish your timeline - Step 1:
 - Under the File menu, Share submenu, select **Publish to the Web**.<br>
-<img src="images/timline-publish-to-web.png" alt="Publish spreadsheet to the web">
+<img src="images/timeline-publish-to-web.png" alt="Publish spreadsheet to the web">
 - In the next window, click the green **Publish** button. When asked, "Are you sure…?" click **OK**. Ignore the URL that appears in the center of the window. Just **close the window using the X** in the top right corner.<br>
-<img src="images/timline-step-2.png" alt="Publish spreadsheet to the web">
+<img src="images/timeline-step-2.png" alt="Publish spreadsheet to the web">
 - After you close the window, **copy the URL in your browser's address bar**. You'll use this in the next step.<br>
-<img src="images/timline-step-3.png" alt="Publish spreadsheet to the web">
+<img src="images/timeline-step-3.png" alt="Publish spreadsheet to the web">
 
 11. Create your timeline:
 - https://timeline.knightlab.com/ **Step 2 & 4...**
