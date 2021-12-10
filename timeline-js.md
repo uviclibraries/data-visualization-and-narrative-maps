@@ -76,6 +76,6 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 <img src="images/timeline-generate.png" alt="Generate a Timeline JS URL">
 - Copy the URL from the **Share Link** field and open the URL in a new tab to see your timeline! Note: You can also embed the timeline on websites that support embedding with "iframes."<br>
 <img src="images/timeline-share.png" alt="Timeline JS URL to share or embed code">
-- Congratulations on creating your first TimeLine! In case you're interested in seeing an example of a more fully developed timeline here is one with [many UVic Buildings on it](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1s45s1S3LH7ukGOA8fsmI8weK-rgDwRK6i-TMPe6rhcM&font=Default&lang=en&initial_zoom=2&height=650){:target="_blank"}.
+- **Congratulations on creating your first TimeLine!** In case you're interested in seeing an example of a more fully developed timeline here is one with [many UVic Buildings on it](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1s45s1S3LH7ukGOA8fsmI8weK-rgDwRK6i-TMPe6rhcM&font=Default&lang=en&initial_zoom=2&height=650){:target="_blank"}.
 
 [NEXT STEP: Google Earth Narrative Maps](google-narrative-maps.html){: .btn .btn-blue }
