@@ -16,7 +16,8 @@ TimeLine JS is a free web-based tool for creating narrative timelines. Timelines
 - We encourage you to create a timeline of a topic of interest to you, but if you don't have access to photos or dates relating to your topic, you can making a timeline using the provided photos of your favourite UVic buildings from the [Victoria Modern website](http://uvac.uvic.ca/Architecture_Exhibits/UVic_campus/){:target="_blank"}. 
 - The examples in the rest of this activity will use images and dates from the Victoria Modern website, but as mentioned, please feel free to use your own photos and related data.
 
-3. <img src="images/timeline-template.png" style="float:right;width:300px;" alt="Copy the Google Sheets template">Your Timeline will be built from the data you enter into a pre-formatted Google Spreadsheet. To create a spreadsheet, copy the template provided for you by clicking on the blue **Get the Spreaqdsheet Template** button (see right). 
+3. Your Timeline will be built from the data you enter into a pre-formatted Google Spreadsheet. To create a spreadsheet, copy the template provided for you by clicking on the blue **Get the Spreaqdsheet Template** button.<br>
+<img src="images/timeline-template.png" style="width:300px;" alt="Copy the Google Sheets template">
 
 4. If prompted, sign into your Google account. If you need a Google account, make one at [accounts.google.com](https://accounts.google.com){:target="_blank"}. 
 - Click **Make a Copy** when prompted.
