@@ -72,8 +72,8 @@ This is a 'title' slide, so it doesn't need a date. It automatically occurs firs
 
 11. Create your timeline on the TimelineJS website:
 - Open the [TimeLine JS web page](https://timeline.knightlab.com/#make){:target="_blank"}, and scroll down to Step 3 - Generate your timeline.
-- Paste your Google Spreadsheet URL in the field in step 3.
-
+- Paste your Google Spreadsheet URL in the field in step 3.<br>
+<img src="images/timeline-generate.png" alt="Generate a Timeline JS URL">
 - https://timeline.knightlab.com/ **Step 2 & 4...**
 
 [NEXT STEP: Google Earth Narrative Maps](google-narrative-maps.html){: .btn .btn-blue }
