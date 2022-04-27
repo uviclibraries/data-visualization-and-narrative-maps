@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7-Word Clouds
+title: 6-Word Clouds
 nav_order: 7
 parent: Workshop Activities
 ---
