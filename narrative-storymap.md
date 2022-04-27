@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 # Narrative Maps with StoryMap JS
-StoryMap JS is a web-based tool for creating narrative maps. You can use traditional cartographical maps (such as road maps) using the regular StoryMap format. You can also use images of historical maps or any other images using the Gigapixel Map feature. The instructions below take you through the process of creating a StoryMap. The sample project shown below can be found at [this link](http://bit.ly/2UtMoh5){:target="_blank"}.
+StoryMap JS is a web-based tool for creating narrative maps. You can use traditional cartographical maps (such as road maps) using the regular StoryMap format. You can also use images of historical maps or any other images using the Gigapixel Map feature. The instructions below take you through the process of creating a StoryMap. Here is an excellent example of how a UVic graduate student used StoryMap to tell the story of Emily Eden's Travels in India from 1836-1842 based on Emily's journals and paintings. You can see the StoryMap [embedded into a WordPress website](https://chadley.opened.ca/emily-edens-journey-map/){:target="_blank"}, as well as [on it's own web page](https://uploads.knightlab.com/storymapjs/42fdf535b76588f3a3e594ff6f030bd1/emily-eden/draft.html#?secret=wmqKaOYCdV){:target="_blank"} (which most people find much easier use).
 
 1. Go to [StoryMap](https://storymap.knightlab.com/){:target="_blank"} and click the green Make a StoryMap button.
 ![StoryMap Make a Story Button](images/storymap-01.png)
