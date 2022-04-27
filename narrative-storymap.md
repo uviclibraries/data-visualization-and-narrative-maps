@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Narrative Maps with StoryMap JS
+title: 2-Narrative Maps with StoryMap JS
 nav_order: 3
 parent: Workshop Activities
 ---
