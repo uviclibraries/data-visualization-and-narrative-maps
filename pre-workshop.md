@@ -11,11 +11,9 @@ This workshop is primarily hands-on practice with various softwares in order to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tgleg4deDZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Timeline JS](https://www.youtube.com/watch?v=vAWbm4gF9lU){:target="_blank"}(3 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vAWbm4gF9lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Google Sheets Charting](https://www.youtube.com/watch?v=LWLVYQGKSLg){:target="_blank"} (12 min)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LWLVYQGKSLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Google My Maps](https://www.youtube.com/watch?v=YnzNZ9iJsP8)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YnzNZ9iJsP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Word Art](https://www.youtube.com/watch?v=SDJNhvC7nDg){:target="_blank"}(3 min)
+- [Word Art](https://www.youtube.com/watch?v=RJQ-bdBajF4){:target="_blank"}(3 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDJNhvC7nDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Setup a Google or Gmail account](https://accounts.google.com/){:target="_blank"} if you don’t have one already
 - [Pre-Class Quiz](https://goo.gl/DS7Nfh){:target="_blank"}{: .btn .btn-purple }<br>
