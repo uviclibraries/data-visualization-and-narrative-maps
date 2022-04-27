@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Mapping Data with Google Sheets & MyMaps
+title: 1-Mapping Data with Google Sheets & MyMaps
 nav_order: 2
 parent: Workshop Activities
 ---
