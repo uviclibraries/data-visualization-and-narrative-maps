@@ -44,4 +44,4 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 17. Great job! Congratulations on making your first word cloud with Word Art!
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: StorylineJS](storyline.html){: .btn .btn-blue }
