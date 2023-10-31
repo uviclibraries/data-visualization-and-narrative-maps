@@ -5,34 +5,38 @@ nav_order: 8
 parent: Workshop Activities
 ---
 # Narrative Maps with StoryLine JS
-StoryMap JS is a web-based tool for creating narrative maps. You can use traditional cartographical maps (such as road maps) using the regular StoryMap format. You can also use images of historical maps or any other images using the Gigapixel Map feature. The instructions below take you through the process of creating a StoryMap. Here is an excellent example of how a UVic graduate student used StoryMap to tell the story of Emily Eden's Travels in India from 1836-1842 based on Emily's journals and paintings. 
-You can see an excellent example of a StoryMap telling an interesting historical story [embedded into a WordPress website](https://chadley.opened.ca/emily-edens-journey-map/){:target="_blank"}, as well as [on it's own web page](https://uploads.knightlab.com/storymapjs/42fdf535b76588f3a3e594ff6f030bd1/emily-eden/draft.html#?secret=wmqKaOYCdV){:target="_blank"} (which most people find much easier use).
 
-1. Go to [StoryMap](https://storymap.knightlab.com/){:target="_blank"} and click the green Make a StoryMap button.
-![StoryMap Make a Story Button](images/Storyline-01.png)
-2. Sign in with your Google account. If you need to create one go [here](https://accounts.google.com/){:target="_blank"} 
+In this hands-on activity, you will generate a storyline such as the one below, which shows historic changes in temperature as well as climate change milestones.
 
-3. Click the green **New** button, then enter a title for your StoryMap. Click the green **Create** button.  <img src="images/storymap-02.png" style="float:right;width:200px" alt="Add Slide Button">
+<iframe src="https://cdn.knightlab.com/libs/storyline/latest/embed/index.html?dataURL=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRZ83SC8r8FGkB4EX_8DST4G6T1tY2p6wvIfll-X0iLG2wUuaz4ESVvZ-fXD5-BWuXv88m5E4TmqzHX%2Fpubhtml&amp;dataYCol=value&amp;dataXCol=year&amp;dataDateFormat=%25Y&amp;chartDateFormat=%25Y&amp;chartYLabel=Global%20temperature%20change%20(degC)&amp;sliderCardTitleCol=captiontitle&amp;sliderCardTextCol=captiontext" style="width:100%;height:650px;" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0"></iframe>
 
-4. To add your first location, click on **Add Slide** in the far left column.
+1. Go to the [UN FAO database](https://www.fao.org/faostat/en/#data/ET) and enter the following parameters (as shown in the picture below):
+-	In the top left box, select Regions and then select World + (Total). This will create average global temperature change values in the y-axis of your storyline.
+-	In the top right box, select Temperature Change. This will generate temperature change data from a baseline of 1951-1980.
+-	In the bottom left, select Meteorological year. This will create intervals of years in the x-axis.
+<img width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/382450f8-6fa0-488f-830a-e3441070e407">
 
-5. Once you have done this, a red box will appear on the map, prompting you to add your first location.  You can enter either the name of a location e.g. “St. John’s Newfoundland” or its latitude/longitude coordinates in the following format: **lat:<123.31°W>, lon:<48.46°N>**<br>
-Note: To get the degree symbol use Alt+0 for Mac and Ctrl+0176 (make sure number lock is on!) for Windows.
-![Add first location textbox](images/storymap-03.png)
-6. To add a heading and description of your slide, use the text boxes at the bottom. 
+2. Download data as a csv file. Then, either paste the values from excel into [Google Sheets](https://docs.google.com/spreadsheets/create) OR open a blank google sheet, click File > Import > Upload and select your downloaded file.
 
-7. <img src="images/storymap-04.png" style="float:right;width:150px" alt="Marker icon example"> To change the background for your slide or change your location marker icon, click on **Background Options** or **Marker Options** at the very bottom of the screen.  
-      - Background Colour: Use the colour wheel to adjust the background colour 
-      - Image: To add an image from your computer click **Choose File**. <img src="images/storymap-05.png" style="float:right;width:150px" alt="Image as marker"> Alternatively, paste a URL link to an online photo. Right-click on the desired photo and select **Copy Image Address**, and then paste into the text box beneath **Background image**. 
+3. In this exercise, we will only need to use the Year and Value columns. Keep those columns and delete the remaining columns. Then, add two additional columns entitled Caption Title and Caption Text. These columns contain the title and descriptions, respectively, of cards that will be attached to points in time that you want to highlight.
 
-8. To review your changes, click **Preview** at the top of the page. 
+4. To complete your Caption Title and Caption Text columns, find and enter relevant climate change milestones from sources such as:
+[Britannica’s Timeline of Climate Change](https://cdn.britannica.com/92/192592-050-6A70F97C/Timeline-developments-climate-change-1896-2016-Paris-Agreement.jpg)
+[The American Institute of Physics Timeline of Global Warming](https://history.aip.org/climate/timeline.htm)
 
-9. To continue making your “journey”, repeat steps 5-8 for each place you would like to highlight and stop at. Bed sure to save your work frequently!
+Here is an example of Caption titles and text entered in the spreadsheet:
+<img align="left" width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/0759c1f7-ea80-47fb-b8ce-1600f3fbec94">
 
-10. Linking to your Story: to create a link to your StoryMap to share with others, click on the grey **Share** button on the top right of the web page.
-![Sharing button](images/storymap-06.png)
-11. Copy the URL in the Link box and then share the link with others!
-![Example of URL link to upload project](images/storymap-07.png)
-12. Congratulations on creating your first StoryMap!
+5. Once you have finished entering captions, click File > Share > Publish to web.
+<img align="left" width="464" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/727512eb-0acb-4d13-8a56-12eadd5a7ea5"> 
 
-[NEXT STEP: TimeLine JS](timeline-js.html){: .btn .btn-blue }
+Then, copy the link provided in the window without changing any of the other settings.
+<img align="left" width="304" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/300c0ccf-69a8-4b77-8d69-964bf216f8b9">
+
+6. Paste the URL into the "Configure your Storyline" box at http://storyline.knightlab.com/, then click Load. Configure the parameters provided to correspond to the column titles/format in your spreadsheet. Think of a title for your y-axis (e.g., “Global temperature change (degC)”
+<img align="left" width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/c6637d9e-c9e6-4caf-82de-84f1e2794cdc"> 
+
+7. Finally, click the “Create Storyline” button below, which will generate 1) an embed code that you can paste onto your site where you want your storyline to appear and 2) a direct link to your story line.
+<img align="left" width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/c69cbf31-062c-4000-a3bd-6c461f33bedb">
+
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
