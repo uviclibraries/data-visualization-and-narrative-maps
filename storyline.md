@@ -14,7 +14,7 @@ In this hands-on activity, you will generate a storyline such as the one below, 
 -	In the top left box, select Regions and then select World + (Total). This will create average global temperature change values in the y-axis of your storyline.
 -	In the top right box, select Temperature Change. This will generate temperature change data from a baseline of 1951-1980.
 -	In the bottom left, select Meteorological year. This will create intervals of years in the x-axis.
-<img width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/382450f8-6fa0-488f-830a-e3441070e407">
+<img width="468" alt="image" src="images/storyline-01.png">
 
 2. Download data as a csv file. Then, either paste the values from excel into [Google Sheets](https://docs.google.com/spreadsheets/create) OR open a blank google sheet, click File > Import > Upload and select your downloaded file.
 
@@ -25,13 +25,13 @@ In this hands-on activity, you will generate a storyline such as the one below, 
 [The American Institute of Physics Timeline of Global Warming](https://history.aip.org/climate/timeline.htm)
 
 Here is an example of Caption titles and text entered in the spreadsheet:
-<img align="left" width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/0759c1f7-ea80-47fb-b8ce-1600f3fbec94">
+<img align="left" width="468" alt="image" src="images/storyline-02.png">
 
 5. Once you have finished entering captions, click File > Share > Publish to web.
-<img align="left" width="464" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/727512eb-0acb-4d13-8a56-12eadd5a7ea5"> 
+<img align="left" width="464" alt="image" src="storyline-03.png"> 
 
 Then, copy the link provided in the window without changing any of the other settings.
-<img align="left" width="304" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/300c0ccf-69a8-4b77-8d69-964bf216f8b9">
+<img align="left" width="304" alt="image" src="storyline-04.png">
 
 6. Paste the URL into the "Configure your Storyline" box at http://storyline.knightlab.com/, then click Load. Configure the parameters provided to correspond to the column titles/format in your spreadsheet. Think of a title for your y-axis (e.g., “Global temperature change (degC)”
 <img align="left" width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/c6637d9e-c9e6-4caf-82de-84f1e2794cdc"> 
