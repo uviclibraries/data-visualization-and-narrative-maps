@@ -10,6 +10,10 @@ In this hands-on activity, you will generate a storyline such as the one below, 
 
 <iframe src="https://cdn.knightlab.com/libs/storyline/latest/embed/index.html?dataURL=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRZ83SC8r8FGkB4EX_8DST4G6T1tY2p6wvIfll-X0iLG2wUuaz4ESVvZ-fXD5-BWuXv88m5E4TmqzHX%2Fpubhtml&amp;dataYCol=value&amp;dataXCol=year&amp;dataDateFormat=%25Y&amp;chartDateFormat=%25Y&amp;chartYLabel=Global%20temperature%20change%20(degC)&amp;sliderCardTitleCol=captiontitle&amp;sliderCardTextCol=captiontext" style="width:100%;height:650px;" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0"></iframe>
 
+Caption sources:
+[American Institue of Physics](https://history.aip.org/climate/timeline.htm)
+[Brittanica](https://cdn.britannica.com/92/192592-050-6A70F97C/Timeline-developments-climate-change-1896-2016-Paris-Agreement.jpg)
+
 1. Go to the [UN FAO database](https://www.fao.org/faostat/en/#data/ET) and enter the following parameters (as shown in the picture below):
 -	In the top left box, select Regions and then select World + (Total). This will create average global temperature change values in the y-axis of your storyline.
 -	In the top right box, select Temperature Change. This will generate temperature change data from a baseline of 1951-1980.
@@ -34,9 +38,9 @@ Then, copy the link provided in the window without changing any of the other set
 <img align="left" width="304" alt="image" src="storyline-04.png">
 
 6. Paste the URL into the "Configure your Storyline" box at http://storyline.knightlab.com/, then click Load. Configure the parameters provided to correspond to the column titles/format in your spreadsheet. Think of a title for your y-axis (e.g., “Global temperature change (degC)”
-<img align="left" width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/c6637d9e-c9e6-4caf-82de-84f1e2794cdc"> 
+<img align="left" width="468" alt="image" src="storyline-05"> 
 
 7. Finally, click the “Create Storyline” button below, which will generate 1) an embed code that you can paste onto your site where you want your storyline to appear and 2) a direct link to your story line.
-<img align="left" width="468" alt="image" src="https://github.com/uviclibraries/Storyline/assets/145716441/c69cbf31-062c-4000-a3bd-6c461f33bedb">
+<img align="left" width="468" alt="image" src="storyline-06">
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
