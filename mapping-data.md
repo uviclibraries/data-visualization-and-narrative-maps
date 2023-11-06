@@ -13,7 +13,6 @@ In this exercise, you will create visualizations map region and maker visualizat
 2. Open a new tab in your web browser, and then open the [**City of Victoria’s open data repository** website](http://opendata.victoria.ca){:target="_blank"}
 - Scroll down the web page and click on: **Transportation and Parking**
 - Next, scroll down the web page and find the **Private Parking Lots** button, and click on it.
-- Click on the **Download** button to the right, and then select Spreadsheet. (use this link if you have problems finding the [file](http://bit.ly/31wBewm){:target="_blank"}). Save the Private_Parking_lots.csv file in a location where you will be able to find it.
 - Open your **Google Drive** tab in your web browser.
 <img src="images/maps-03.png" style="float:right;width:120px" alt="Google new button">
 - Click on the **New** button on the top left, and then select **File upload**.
