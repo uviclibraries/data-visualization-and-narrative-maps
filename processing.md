@@ -14,7 +14,7 @@ This worksheet outlines how to edit two image files in Google Sheets so they can
 2. Go to [Google Slides](https://www.google.ca/slides/about/){:target="_blank"}. Click **Go to Google Slide**s, then start a new blank presentation.
 3. In the **Layout** menu, choose **Blank** to create a blank slide. <br> ![image](https://github.com/uviclibraries/data-visualization-and-narrative-maps/assets/77131703/bff893f3-ca0e-4c93-b718-b72372366260)
 4. To add the first image, go to the **insert** menu and choose  **Image**. then **Upload from Computer**. Browse to the first image and insert it.
-![image](img=src"add-image-google.png)
+[![image](img=src"add-image-google.png)](https://github.com/uviclibraries/data-visualization-and-narrative-maps/blob/main/images/add-image-google.png)
 5. Add the second image to the same slide. To make it easier to see how the images overlap, go to the **Format** menu and choose **Format Options**. Expand the **Adjustments** menu and set the transparency of the second image to about 50%. You should be able to see the first image through the second image.
 6. Line up the images as much as possible, using one point as an achor. In this example, the images are of the same building but taken from different angles. The first image was enlarged so the building matched the size of the second building, and the images are lined up at the roofline.
 7. Crop images so that they are both the same size by double-clicking each image in turn and dragging the "crop" handles so that they are both the same size.
