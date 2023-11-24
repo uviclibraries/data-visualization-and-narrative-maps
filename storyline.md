@@ -20,22 +20,22 @@ Caption sources:
 -	In the bottom left, select Meteorological year. This will create intervals of years in the x-axis.
 <img width="468" alt="image" src="images/storyline-01.png">
 
-2. Download data as a csv file. Then, either paste the values from excel into [Google Sheets](https://docs.google.com/spreadsheets/create) OR open a blank google sheet, click File > Import > Upload and select your downloaded file.
+2. Download data as a csv file. Then, either paste the values from excel into [Google Sheets](https://docs.google.com/spreadsheets/create){:target="_blank"} OR open a blank google sheet, click File > Import > Upload and select your downloaded file.
 
 3. In this exercise, we will only need to use the Year and Value columns. Keep those columns and delete the remaining columns. Then, add two additional columns entitled Caption Title and Caption Text. These columns contain the title and descriptions, respectively, of cards that will be attached to points in time that you want to highlight.
 
 4. To complete your Caption Title and Caption Text columns, find and enter relevant climate change milestones from sources such as:
-[Britannica’s Timeline of Climate Change](https://cdn.britannica.com/92/192592-050-6A70F97C/Timeline-developments-climate-change-1896-2016-Paris-Agreement.jpg)
-[The American Institute of Physics Timeline of Global Warming](https://history.aip.org/climate/timeline.htm)
+[Britannica’s Timeline of Climate Change](https://cdn.britannica.com/92/192592-050-6A70F97C/Timeline-developments-climate-change-1896-2016-Paris-Agreement.jpg){:target="_blank"}
+[The American Institute of Physics Timeline of Global Warming](https://history.aip.org/climate/timeline.htm){:target="_blank"}
 
 Here is an example of Caption titles and text entered in the spreadsheet:
 <img align="left" width="468" alt="image" src="images/storyline-02.png">
 
 5. Once you have finished entering captions, click File > Share > Publish to web.
-<img align="left" width="464" alt="image" src="storyline-03.png"> 
+<img align="left" width="464" alt="image"src="storyline-03.png"> 
 
 Then, copy the link provided in the window without changing any of the other settings.
-<img align="left" width="304" alt="image" src="storyline-04.png">
+<img align="left" width="304" alt="image"src="storyline-04.png">
 
 6. Paste the URL into the "Configure your Storyline" box at http://storyline.knightlab.com/, then click Load. Configure the parameters provided to correspond to the column titles/format in your spreadsheet. Think of a title for your y-axis (e.g., “Global temperature change (degC)”
 <img align="left" width="468" alt="image" src="storyline-05"> 
