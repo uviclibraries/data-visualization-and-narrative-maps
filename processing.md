@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 8-Processing Images for Juxtapose JS
-nav_order: 9
+title: 9-Processing Images for Juxtapose JS
+nav_order: 10
 parent: Workshop Activities
 ---
 # Processing Images for Juxtapose JS
@@ -22,3 +22,7 @@ This worksheet outlines how to edit two image files in Google Sheets so they can
 10. Using an image editor, such as Paint 3D on a PC or Preview on a Mac, crop both images to remove the white background.
 11. Finally, uload the two images to the web, Dropbox, or to Google Photos. You will need a URL for each image to create the Juxtapose slider.
 12. To create a Juxtapose slider, follow the instructions on the activity sheet called **Introduction to Comparison Visualizations with Juxtapose JS**.
+
+Congratulations on processing your first images to use in Juxtapose JS!
+
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
