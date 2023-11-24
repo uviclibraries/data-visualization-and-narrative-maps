@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 9-Processing Images for Juxtapose JS
-nav_order: 10
+title: 8-Processing Images for Juxtapose JS
+nav_order: 9
 parent: Workshop Activities
 ---
 # Processing Images for Juxtapose JS
@@ -24,5 +24,3 @@ This worksheet outlines how to edit two image files in Google Sheets so they can
 12. To create a Juxtapose slider, follow the instructions on the activity sheet called **Introduction to Comparison Visualizations with Juxtapose JS**.
 
 Congratulations on processing your first images to use in Juxtapose JS!
-
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
