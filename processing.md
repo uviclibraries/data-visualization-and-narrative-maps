@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 Juxtapose JS is a free, open source, web-based tool that lets you compare two media objects either images or gifs. For the best results, the two images should have points of visual similarity. A comparison of the same building at different points of time work well, for example, or a comparison of a painting before and after restoration. 
 
-This worksheet outlines how to edit two image files in Google Sheets so they can be used most effectively in Juxtapose. The example can be viewed [here](https://goo.gl/54Ww2u){:target="_blank"}
+This worksheet outlines how to edit two image files in Google Sheets so they can be used most effectively in Juxtapose. The example can be viewed [here](https://goo.gl/54Ww3u){:target="_blank"}
 
 1. Find and save two images to use in the Juxtapose slider. Record the URLs and source information to use later.
 2. Go to [Google Slides](https://www.google.ca/slides/about/){:target="_blank"}. Click **Go to Google Slide**s, then start a new blank presentation.
