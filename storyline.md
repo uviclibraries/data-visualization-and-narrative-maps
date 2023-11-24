@@ -32,15 +32,15 @@ Here is an example of Caption titles and text entered in the spreadsheet:
 <img src="images/storyline-02.png">
 
 5. Once you have finished entering captions, click File > Share > Publish to web.
-<img src="images/storyline-03.png" style="float:right;width:180px;height:180px;" alt=”image”>
+<img src="images/storyline-03.png”>
 
 Then, copy the link provided in the window without changing any of the other settings.
-<img src="images/storyline-04.png" style="float:right;width:180px;height:180px;" alt=”image”>
+<img src="images/storyline-04.png">
 
 6. Paste the URL into the "Configure your Storyline" box at http://storyline.knightlab.com/, then click Load. Configure the parameters provided to correspond to the column titles/format in your spreadsheet. Think of a title for your y-axis (e.g., “Global temperature change (degC)”
-<img src="images/storyline-05.png" style="float:right;width:180px;height:180px;" alt=”image”>
+<img src="images/storyline-05.png">
 
 7. Finally, click the “Create Storyline” button below, which will generate 1) an embed code that you can paste onto your site where you want your storyline to appear and 2) a direct link to your story line.
-<img src="images/storyline-06.png" style="float:right;width:180px;height:180px;" alt=”image”>
+<img src="images/storyline-06.png">
 
  [NEXT STEP: Processing Images with JS](processing.html){: .btn .btn-blue }
