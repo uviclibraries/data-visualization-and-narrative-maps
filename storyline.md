@@ -29,7 +29,7 @@ Caption sources:
 [The American Institute of Physics Timeline of Global Warming](https://history.aip.org/climate/timeline.htm){:target="_blank"}
 
 Here is an example of Caption titles and text entered in the spreadsheet:
-<img src="images/storyline-02.png" style="float:right;width:180px;height:180px;" alt=”image”>
+<img src="images/storyline-02.png">
 
 5. Once you have finished entering captions, click File > Share > Publish to web.
 <img src="images/storyline-03.png" style="float:right;width:180px;height:180px;" alt=”image”>
