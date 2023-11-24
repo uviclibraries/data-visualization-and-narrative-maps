@@ -20,7 +20,7 @@ This worksheet outlines how to edit two image files in Google Sheets so they can
 <img src="images/format-google.png" style="float:right;width:180px;height:180px;">
 6. Line up the images as much as possible, using one point as an achor. In this example, the images are of the same building but taken from different angles. The first image was enlarged so the building matched the size of the second building, and the images are lined up at the roofline.
 7. Crop images so that they are both the same size by double-clicking each image in turn and dragging the "crop" handles so that they are both the same size.
-8. Add a new blank slide, thne copy and paste the second image onto it. Return its transparency to 0%.
+8. Add a new blank slide, then copy and paste the second image onto it. Return its transparency to 0%.
 9. Download both images as jpg or png files. Go to **File** then **Download as**, then choose the desired format. You'll need to do this twice, once for each photo.
 10. Using an image editor, such as Paint 3D on a PC or Preview on a Mac, crop both images to remove the white background.
 11. Finally, uload the two images to the web, Dropbox, or to Google Photos. You will need a URL for each image to create the Juxtapose slider.
