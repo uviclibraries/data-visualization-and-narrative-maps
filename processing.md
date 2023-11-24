@@ -16,8 +16,8 @@ This worksheet outlines how to edit two image files in Google Sheets so they can
 4. To add the first image, go to the **insert** menu and choose  **Image**. then **Upload from Computer**. Browse to the first image and insert it.
 <img src="images/add-image-google.png">
 5. Add the second image to the same slide. To make it easier to see how the images overlap, go to the **Format** menu and choose **Format Options**. Expand the **Adjustments** menu and set the opacity of the second image to about 50%. You should be able to see the first image through the second image.
-<img src="images/format-google.png" style="float:right;width:180px;height:180px;">
 <img src="images/opacity-google.png" style="float:right;width:180px;height:180px;">
+<img src="images/format-google.png" style="float:right;width:180px;height:180px;">
 6. Line up the images as much as possible, using one point as an achor. In this example, the images are of the same building but taken from different angles. The first image was enlarged so the building matched the size of the second building, and the images are lined up at the roofline.
 7. Crop images so that they are both the same size by double-clicking each image in turn and dragging the "crop" handles so that they are both the same size.
 8. Add a new blank slide, thne copy and paste the second image onto it. Return its transparency to 0%.
