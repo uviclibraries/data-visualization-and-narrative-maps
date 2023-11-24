@@ -24,3 +24,4 @@ This worksheet outlines how to edit two image files in Google Sheets so they can
 12. To create a Juxtapose slider, follow the instructions on the activity sheet called **Introduction to Comparison Visualizations with Juxtapose JS**.
 
 Congratulations on processing your first images to use in Juxtapose JS!
+[NEXT STEP: Introduction to Comparison Visualizations with Juxtapose](comparison.html){: .btn .btn-blue }
