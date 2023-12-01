@@ -25,7 +25,7 @@ Sample pre-processed images for making a Juxtapose are available on Flickr: an i
 8. Add a new blank slide, then copy and paste the second image onto it. Return its opacity to 100%.
 9. Download both images as jpg or png files. Go to **File** then **Download as**, then choose the desired format. You'll need to do this twice, once for each photo.
 10. Using an image editor, such as Paint 3D on a PC or Preview on a Mac, crop both images to remove the white background.
-11. Finally, uload the two images to the web, Dropbox, or to Google Photos. You will need a URL for each image to create the Juxtapose slider.
+11. Finally, upload the two images to the web, Dropbox, or to Google Photos. You will need a URL for each image to create the Juxtapose slider.
 12. To create a Juxtapose slider, follow the instructions on the activity sheet called **Introduction to Comparison Visualizations with Juxtapose JS**.
 
 Congratulations on processing your first images to use in Juxtapose JS!
