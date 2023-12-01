@@ -19,6 +19,11 @@ Sample pre-processed images for making a Juxtapose are available on Flickr: an i
 7. Click **Publish** to generate a URL for your Juxtapose and code for embedding it. Be sure to record this informaton, since it cannot be retrieved later
 comparison-visualization.gif
 
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
+<div id="gif1">
+      <img src="images/comparison-visualization.gif"> <br>
+     </div> 
+     
 <img src="images/juxatapose-compare.png">
 
 Here is just [another example](https://onlineacademiccommunity.uvic.ca/dsc/2018/03/05/visualizing-mr-darcy-with-juxtapose-js/){:target="_blank"}
