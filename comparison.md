@@ -17,7 +17,7 @@ Sample pre-processed images for making a Juxtapose are available on Flickr: an i
 5. Click the **Preview** button to see a preview of your juxta pose at the bottom of the screen.
 6. Use the **Options** menu to customize your Juxtapose.
 7. Click **Publish** to generate a URL for your Juxtapose and code for embedding it. Be sure to record this informaton, since it cannot be retrieved later
-<img src="images/juxatpose-compare.png">
+<img src="images/juxatapose-compare.png">
 
 Here is just [another example](https://onlineacademiccommunity.uvic.ca/dsc/2018/03/05/visualizing-mr-darcy-with-juxtapose-js/){:target="_blank"}
 
