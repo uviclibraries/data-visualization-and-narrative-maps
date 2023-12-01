@@ -19,8 +19,8 @@ Sample pre-processed images for making a Juxtapose are available on Flickr: an i
 7. Click **Publish** to generate a URL for your Juxtapose and code for embedding it. Be sure to record this informaton, since it cannot be retrieved later
 comparison-visualization.gif
 
-<button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
+<button onclick="toggle('gif')">Show/Hide Animation</button>
+<div id="gif">
       <img src="images/comparison-visualization.gif"> <br>
      </div> 
      
