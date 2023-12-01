@@ -25,3 +25,15 @@ Here is just [another example](https://onlineacademiccommunity.uvic.ca/dsc/2018/
 
    Congratulations on creating your first Juxtapose!
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
