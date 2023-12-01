@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 Juxtapose JS is a free, open source, web-based tool that lets you compare two media objects either images or gifs. For the best results, the two images should have points of visual similarity. A comparison of the same building at different points of time work well, for example, or a comparison of a painting before and after restoration. 
 
-This worksheet outlines how to edit two image files in Google Sheets so they can be used most effectively in Juxtapose. The example can be viewed [here](https://goo.gl/54Ww3u){:target="_blank"}
+This worksheet outlines how to edit two image files in Google Sheets so they can be used most effectively in Juxtapose. The example can be viewed [here]((https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0c7b9b72-9067-11ee-9ddd-3f41531135b6)){:target="_blank"}
 
 Sample pre-processed images for making a Juxtapose are available on Flickr: an image of the [McPherson Library in 1963](https://www.flickr.com/photos/152721723@N08/40478805172/in/photostream/){:target="_blank"} and a [similar image from 2013](https://www.flickr.com/photos/152721723@N08/40478806912/){:target="_blank"}, and an image of the BC Parliament buildings [by day](https://www.flickr.com/photos/152721723@N08/39488549515/in/photostream/){:target="_blank"} and [by night](https://www.flickr.com/photos/152721723@N08/39674455174/){:target="_blank"} 
 
