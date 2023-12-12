@@ -12,7 +12,7 @@ Sample pre-processed images for making a Juxtapose are available on Flickr: an i
 
 1. Find two images or gifs on the web to compare, or publish your own images to Flickr, Dropbox, or another site. For best results, the images should be as visually similar and as close in size as possible. For instructions for processing images, see the previous activity.
 2. Go to [Juxtapose Knightlab](https://juxtapose.knightlab.com/){:target="_blank"} and click **Make a Juxtapose**.
-3. Copy the URL of the image or gif you want on the left side of the slider and paste it into the **Left Image** URL bar. Add a label and a credit for the left image. If the URL is long, consider using HTML to create a hyperlink.
+3. 3.	You have the option of creating an Interactive image with a manual slider, or a GIF. For either option, copy the URL of the image or gif you want on the left side of the slider and paste it into the Left Image URL bar. Add a label and a credit for the left image. If the URL is long, consider using HTML to create a hyperlink.
 4. Copy the URL of the image or gif you want on the right side of the slider and paste it into the **Right Image** URL bar. Add a label and a credit for the right image.
 5. Click the **Preview** button to see a preview of your juxta pose at the bottom of the screen.
 6. Use the **Options** menu to customize your Juxtapose.
