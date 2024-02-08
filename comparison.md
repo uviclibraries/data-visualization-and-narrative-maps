@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 9-Introduction to Comparison Visualizations with Juxtapose JS
-nav_order: 10
+title: 8-Introduction to Comparison Visualizations with Juxtapose JS
+nav_order: 9
 parent: Workshop Activities
 ---
 # Introduction to Comparison Visualizations with Juxtapose JS
