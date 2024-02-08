@@ -30,4 +30,4 @@ Sample pre-processed images for making a Juxtapose are available on Flickr: an i
 
 Congratulations on processing your first images to use in Juxtapose JS!
 
-[NEXT STEP: Introduction to Comparison Visualizations with Juxtapose](comparison.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
