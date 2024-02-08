@@ -43,4 +43,4 @@ Then, copy the link provided in the window without changing any of the other set
 7. Finally, click the “Create Storyline” button below, which will generate 1) an embed code that you can paste onto your site where you want your storyline to appear and 2) a direct link to your story line.
 <img src="images/storyline-06.png">
 
- [NEXT STEP: Processing Images with JS](processing.html){: .btn .btn-blue }
+ [NEXT STEP: Comparing Images with Juxtapose](comparison.html){: .btn .btn-blue }
