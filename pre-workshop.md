@@ -17,8 +17,8 @@ This workshop is primarily hands-on practice with various softwares in order to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YnzNZ9iJsP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Word Art](https://www.youtube.com/watch?v=RJQ-bdBajF4){:target="_blank"}(3 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RJQ-bdBajF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Google Sheets Charting](https://www.youtube.com/watch?v=YnzNZ9iJsP8){:target="_blank"}(12 min)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YnzNZ9iJsP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Google Sheets Charting](https://youtu.be/POAlkUWhRog?si=Aq_wzq2C5Ke5RfZS&t=15){:target="_blank"}(9 min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aq_wzq2C5Ke5RfZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Setup a Google or Gmail account](https://accounts.google.com/){:target="_blank"} if you don’t have one already
 
 (Note: Setting up a Google account if you do not already have one is optional. Please let the instructor know if you do not want to create a Google account at the beginning of the workshop).
