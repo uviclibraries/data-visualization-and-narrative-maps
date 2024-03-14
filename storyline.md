@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 7-Narrative Maps with StoryLine JS
+title: 7-Narrative Charts with StoryLine JS
 nav_order: 8
 parent: Workshop Activities
 ---
-# Narrative Maps with StoryLine JS
+# Narrative Charts with StoryLine JS
 
 In this hands-on activity, you will generate a storyline such as the one below, which shows historic changes in temperature as well as climate change milestones.
 
