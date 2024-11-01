@@ -29,7 +29,7 @@ comparison-visualization.gif
 Here is just [another example](https://onlineacademiccommunity.uvic.ca/dsc/2018/03/05/visualizing-mr-darcy-with-juxtapose-js/){:target="_blank"}
 
    Congratulations on creating your first Juxtapose!
-[NEXT STEP: Processing your own image to use in Juxtapose JS](comparison.html){: .btn .btn-blue }
+[NEXT STEP: Processing your own image to use in Juxtapose JS](processing.html){: .btn .btn-blue }
 
 <script>  
 
