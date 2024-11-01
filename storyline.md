@@ -11,10 +11,10 @@ In this hands-on activity, you will generate a storyline such as the one below, 
 <iframe src="https://cdn.knightlab.com/libs/storyline/latest/embed/index.html?dataURL=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRZ83SC8r8FGkB4EX_8DST4G6T1tY2p6wvIfll-X0iLG2wUuaz4ESVvZ-fXD5-BWuXv88m5E4TmqzHX%2Fpubhtml&amp;dataYCol=value&amp;dataXCol=year&amp;dataDateFormat=%25Y&amp;chartDateFormat=%25Y&amp;chartYLabel=Global%20temperature%20change%20(degC)&amp;sliderCardTitleCol=captiontitle&amp;sliderCardTextCol=captiontext" style="width:100%;height:650px;" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0"></iframe>
 
 Caption sources:
-[American Institue of Physics](https://history.aip.org/climate/timeline.htm)
-[Brittanica](https://cdn.britannica.com/92/192592-050-6A70F97C/Timeline-developments-climate-change-1896-2016-Paris-Agreement.jpg)
+[American Institue of Physics](https://history.aip.org/climate/timeline.htm){:target="_blank"}
+[Brittanica](https://cdn.britannica.com/92/192592-050-6A70F97C/Timeline-developments-climate-change-1896-2016-Paris-Agreement.jpg){:target="_blank"}
 
-1. Go to the [UN FAO database](https://www.fao.org/faostat/en/#data/ET) and enter the following parameters (as shown in the picture below):
+1. Go to the [UN FAO database](https://www.fao.org/faostat/en/#data/ET){:target="_blank"} and enter the following parameters (as shown in the picture below):
 -	In the top left box, select Regions and then select World + (Total). This will create average global temperature change values in the y-axis of your storyline.
 -	In the top right box, select Temperature Change. This will generate temperature change data from a baseline of 1951-1980.
 -	In the bottom left, select Meteorological year. This will create intervals of years in the x-axis.
