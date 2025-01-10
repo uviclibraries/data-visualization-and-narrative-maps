@@ -12,7 +12,7 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 
 1. **Creating Your Google Earth Project**: Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left 
 2. Click on **Projects** and then the light blue **New Project** button at the bottom. 
-Note: There will be a prompt for you to sign into a Google Account once you click **New Project**. If you need to create one go [here](https://accounts.google.com/){:target="_blank"} <img src="images/narrative-02.png" style="float:right;width:200px" alt="new project button">
+Note: There will be a prompt for you to sign into a Google Account once you click **Create a New Project**. If you need to create one go [here](https://accounts.google.com/){:target="_blank"} <img src="images/new-project.png" style="float:right;width:200px" alt="new project button">
 
 <button onclick="toggle('gif1')">Show/Hide Animation</button>
 <div id="gif1">
