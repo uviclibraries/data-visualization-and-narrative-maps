@@ -9,13 +9,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 Google Earth is a multiplatform and web program that uses aerial photography, superimposed images, and GIS data to create a 3D representation of the earth.  Users can enter addresses and geographical coordinates to view areas at various ages. In 2019, Google added creativity options that would allow individuals to tell their own stories using 3D street views, aerial footage, placemarks, routes, shapes, and descriptive text. Here is an example:
 - The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"} 
 
-1. **Creating Your Google Earth Project**: Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left 
-2. Click on **Projects** and then the light blue **New Project** button at the bottom. 
-Note: There will be a prompt for you to sign into a Google Account once you click **Create a New Project**. If you need to create one go [here](https://accounts.google.com/){:target="_blank"} <img src="images/new-project.png" style="float:right;width:200px" alt="new project button">
+1. **Creating Your Google Earth Project**: Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}
+2. Click on the light blue **Create a New Project** button at the top of the page. 
+Note: If you aren't already, there will be a prompt for you to sign into a Google Account once you click **Create a New Project**. If you need to create a Google account go [here](https://accounts.google.com/){:target="_blank"} <img src="images/new-project.png" style="float:right;width:200px" alt="new project button">
 
 <button onclick="toggle('gif1')">Show/Hide Animation</button>
 <div id="gif1">
-      <img src="images/narrative-03.gif"> <br>
+      <img src="images/googlemaps-01.gif"> <br>
      </div> 
 
 3. **Adding to Your Google Earth Project** 
