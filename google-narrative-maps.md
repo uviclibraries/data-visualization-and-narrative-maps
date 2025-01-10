@@ -29,8 +29,8 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
       <img src="images/googlemaps-02.gif"> <br>
      </div> 
 
-- Alternatively, you can click **Add placemark**, click on a place on <img src="images/placement.png" style="float:right;width:200px" alt="add placemark">
-- the map and then click **Add to project** 
+- Alternatively, you can click **Add placemark**, first click the placemark icon (highlighted in the photo to the right), then click the place on the map <img src="images/placement.png" style="float:right;width:200px" alt="add placemark">
+- Finally click **View** 
 
 <button onclick="toggle('gif3')">Show/Hide Animation</button>
 <div id="gif3">
