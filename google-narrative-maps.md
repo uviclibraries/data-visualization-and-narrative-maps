@@ -76,9 +76,9 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 
 
 - To change the view, repeat the steps for the 2D example (Note: no need to use SHIFT to rotate and tilt; the mouse does everything) <img src="images/narrative-17.png" style="float:right;width:260px" alt="search bar">
-- Alternatively, using the search bar in the left column, you can search a specific place that is in your area and use that (in the example at the right, Bruce Hall is a centre in Channel-Port Aux Basques, NL that Terry Fox made a speech at during his Marathon of Hope) and click **Add to project**, giving it the name of the overall location (e.g. Channel-Port Aux Basques)
-- Once you’re happy with your view, click on **Capture this view** which will then prompt you to save the location.)<br>
-
+- Alternatively, using the search bar in the left column, you can search a specific place that is in your area and use that (in the example at the right, Bruce Hall is a centre in Channel-Port Aux Basques, NL that Terry Fox made a speech at during his Marathon of Hope) and click **Save to project**, g
+- To edit the name of the overall location (e.g. Channel-Port Aux Basques). Click the three dots near the location on the left hand side and select **edit**. From there you can edit the title on the right hand side. See photo for details.<br> 
+ <img src="images/googlemaps-06.png" width:260px alt="edit">
 <button onclick="toggle('gif7')">Show/Hide Animation</button>
 <div id="gif7">
       <img src="images/googlemaps-07.gif"> <br>
