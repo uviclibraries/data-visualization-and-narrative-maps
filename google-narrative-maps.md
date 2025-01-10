@@ -29,7 +29,7 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
       <img src="images/goolemaps-02.gif"> <br>
      </div> 
 
-- Alternatively, you can click **Add placemark**, click on a place on <img src="images/narrative-05.png" style="float:right;width:150px" alt="add placemark">
+- Alternatively, you can click **Add placemark**, click on a place on <img src="images/placement.png" style="float:right;width:200px" alt="add placemark">
 - the map and then click **Add to project** 
 
 <button onclick="toggle('gif3')">Show/Hide Animation</button>
