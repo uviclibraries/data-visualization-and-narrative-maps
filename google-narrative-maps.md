@@ -88,13 +88,14 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 6. Route <img src="images/narrative-19.png" style="float:right;width:180px" alt="route line path">
 - Selecting the **Draw line or shape** will allow you to create a route. To do this, click on your desired starting location and move your mouse to your next location.  When you reach this next location, click again and continue to make as many points as you’d like!  To complete the path, press **ENTER** when you’re at your final point. You have now made a route! 
 
-<button onclick="toggle('gif9')">Show/Hide Animation</button>
-<div id="gif9">
-      <img src="images/narrative-20.gif"> <br>
+<button onclick="toggle('gif8')">Show/Hide Animation</button>
+<div id="gif8">
+      <img src="images/googlemaps-08.gif"> <br>
      </div> 
 
-- d.) Slide 
-- Here you can add a full screen slide with text, a background (image or colour)
+Bonus: Slide: You can add a full screen slide with text, a background (image or colour)
+- to add a slide you can click the **+** sign on the left side bar and then click add. You can title it and add description like a placemark.
+- A slide can also be created based on your placemarks, click the three dots of one of your placemarks, then click **start slideshow**
 
 <script>  
 
