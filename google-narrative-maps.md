@@ -79,9 +79,9 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 - Alternatively, using the search bar in the left column, you can search a specific place that is in your area and use that (in the example at the right, Bruce Hall is a centre in Channel-Port Aux Basques, NL that Terry Fox made a speech at during his Marathon of Hope) and click **Add to project**, giving it the name of the overall location (e.g. Channel-Port Aux Basques)
 - Once you’re happy with your view, click on **Capture this view** which will then prompt you to save the location.)<br>
 
-<button onclick="toggle('gif8')">Show/Hide Animation</button>
-<div id="gif8">
-      <img src="images/narrative-18.gif"> <br>
+<button onclick="toggle('gif7')">Show/Hide Animation</button>
+<div id="gif7">
+      <img src="images/googlemaps-07.gif"> <br>
      </div> 
 
 
