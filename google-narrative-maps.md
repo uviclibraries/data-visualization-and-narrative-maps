@@ -20,7 +20,7 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 
 3. **Adding to Your Google Earth Project** 
 - Once you have done this, you can add your first location, route, or slide by clicking on the light blue **New Feature** drop-down menu. <img src="images/narrative-04.png" style="float:right;width:180px" alt="New feauture button">
-4. **Location **
+4. **Location**
 - To add a location, click on **Search to add place** and type in the location’s name.  A red marker will appear at your chosen location <img src="images/narrative-06.png" style="float:right;width:200px" alt="add to project button">
 - You can choose to add this to your project by clicking on **Add to project** (located beneath the area description at the right ).
 
