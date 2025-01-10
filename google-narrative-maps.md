@@ -64,19 +64,14 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 
 - To adjust the view of your placemark, click edit, then select the **more settings** toggle. Scroll down to camera view to capture the view you want. Once you’ve got your desired view, click on **Capture this view**. Now when you click on your marked location in your map, you will be brought to this view!
 
-<button onclick="toggle('gif6')">Show/Hide Animation</button>
-<div id="gif6">
-      <img src="images/narrative-14.gif"> <br>
-     </div> 
-
 
 - To get a Street View, go to the bottom right corner and click on the little person icon. <img src="images/narrative-15.png" style="float:right;width:250px" alt="maps with view set">
 - Next, click on the location on your map in which you would like to set your view from.  Note: you will be limited to the areas that are highlighted in light blue.
 - Once you have clicked on this location, Google Earth will zoom in and switch to a real-image 3D view of it.<br>
 
-<button onclick="toggle('gif7')">Show/Hide Animation</button>
-<div id="gif7">
-      <img src="images/narrative-16.gif"> <br>
+<button onclick="toggle('gif6')">Show/Hide Animation</button>
+<div id="gif6">
+      <img src="images/googlemaps-06.gif"> <br>
      </div> 
 
 
