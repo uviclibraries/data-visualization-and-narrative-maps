@@ -45,7 +45,7 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 
 <button onclick="toggle('gif4')">Show/Hide Animation</button>
 <div id="gif4">
-      <img src="images/narrative-11.gif"> <br>
+      <img src="images/googlemaps-04.gif"> <br>
      </div> 
 
 5. **Location View**
