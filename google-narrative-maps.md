@@ -39,7 +39,8 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
      
 <img src="images/googlemaps-03.png" style="float:right;width:220px" alt="edit feature icon">
 - If you would like to add a title, description, photo, or link click on the blue pencil **Edit button**. 
-- To add a photo or video, click on the **+ Media** .<br> <img src="images/googlemaps-04.png" width:180px" alt="adding photo/video"><br>
+- To add a photo or video, click on the **+ Media** .<br> <img src="images/googlemaps-04.png" width:180px" alt="adding photo/video"><br> 
+- or to add a description click ** + Description** button
 - For photos, there are several options for uploading: computer file, google images, google drive, or using a URL. You can add as many photos and/or videos as you’d like! 
 
 <button onclick="toggle('gif4')">Show/Hide Animation</button>
