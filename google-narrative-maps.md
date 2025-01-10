@@ -26,7 +26,7 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
 <div id="gif2">
-      <img src="images/goolemaps-02.gif"> <br>
+      <img src="images/googlemaps-02.gif"> <br>
      </div> 
 
 - Alternatively, you can click **Add placemark**, click on a place on <img src="images/placement.png" style="float:right;width:200px" alt="add placemark">
@@ -34,7 +34,7 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 
 <button onclick="toggle('gif3')">Show/Hide Animation</button>
 <div id="gif3">
-      <img src="images/narrative-08.gif"> <br>
+      <img src="images/googlemaps-03.gif"> <br>
      </div> 
 
 <img src="images/narrative-09.png" style="float:right;width:220px" alt="edit feature icon">
