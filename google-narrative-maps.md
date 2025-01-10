@@ -49,11 +49,11 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
      </div> 
 
 5. **Location View**
-- To change the view that appears when a location on your map is clicked on, hover your mouse over your chosen location and click on the pencil icon **Edit feature**. Google Earth will move to this location and show you an aerial view.
+- To change the view that appears when a location on your map is clicked on, double click your chosen location on the left side bar and then click on the pencil icon **Edit button** (located on the far right). Google Earth will move to this location and show you an aerial view.
 
 <button onclick="toggle('gif5')">Show/Hide Animation</button>
 <div id="gif5">
-      <img src="images/narrative-12.gif"> <br>
+      <img src="images/googlemaps-05.gif"> <br>
      </div> 
 
 - To change from 2D to 3D go to the bottom right corner and click on the button 
