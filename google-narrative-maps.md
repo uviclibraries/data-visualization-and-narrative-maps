@@ -7,7 +7,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Google Earth Narrative Maps 
 Google Earth is a multiplatform and web program that uses aerial photography, superimposed images, and GIS data to create a 3D representation of the earth.  Users can enter addresses and geographical coordinates to view areas at various ages. In 2019, Google added creativity options that would allow individuals to tell their own stories using 3D street views, aerial footage, placemarks, routes, shapes, and descriptive text. Here are two examples:
-- Famous biologist Jane Goodall’s exploration in Gombee, Tanzania [here](tiny.cc/p0x9kz){:target="_blank"}<img src="images/narrative-01.png" style="float:right;width:120px" alt="projects button and menu">
 - The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"} 
 
 1. **Creating Your Google Earth Project**: Go to [Google Earth](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left 
