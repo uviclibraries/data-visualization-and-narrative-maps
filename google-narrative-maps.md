@@ -56,9 +56,9 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
       <img src="images/googlemaps-05.gif"> <br>
      </div> 
 
-- To change from 2D to 3D go to the bottom right corner and click on the button 
+- To change from 2D to 3D go to the bottom right corner and click on the button  <img src="images/googlemaps-05.png" style="float:right;width:200px" alt="capture this view button">
 - To move the physical location, click, hold, and drag your mouse to move the map around.  
-- For adjusting the tilt (angle your view is at) and heading (place your view is facing), hold SHIFT while clicking, holding, and dragging the mouse vertically or horizontally, respectively. <img src="images/googlemaps-05.png" style="float:right;width:200px" alt="capture this view button">
+- For adjusting the tilt (angle your view is at) and heading (place your view is facing), hold SHIFT while clicking, holding, and dragging the mouse vertically or horizontally, respectively.
 - You can also adjust the altitude by using the mouse wheel.
 - Use **-,+** at the bottom right corner to zoom in and out
 
