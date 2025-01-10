@@ -58,11 +58,11 @@ Note: If you aren't already, there will be a prompt for you to sign into a Googl
 
 - To change from 2D to 3D go to the bottom right corner and click on the button 
 - To move the physical location, click, hold, and drag your mouse to move the map around.  
-- For adjusting the tilt (angle your view is at) and heading (place your view is facing), hold SHIFT while clicking, holding, and dragging the mouse vertically or horizontally, respectively.
+- For adjusting the tilt (angle your view is at) and heading (place your view is facing), hold SHIFT while clicking, holding, and dragging the mouse vertically or horizontally, respectively. <img src="images/googlemaps-05.png" style="float:right;width:200px" alt="capture this view button">
 - You can also adjust the altitude by using the mouse wheel.
 - Use **-,+** at the bottom right corner to zoom in and out
 
-- To adjust the view of your placemark, click edit, then select the **more settings** toggle. Scroll down to camera view to capture the view you want. Once you’ve got your desired view, click on **Capture this view**.<br> <img src="images/googlemaps-05.png" style="float:right;width:200px" alt="capture this view button"> Now when you click on your marked location in your map, you will be brought to this view!
+- To adjust the view of your placemark, click edit, then select the **more settings** toggle. Scroll down to camera view to capture the view you want. Once you’ve got your desired view, click on **Capture this view**. Now when you click on your marked location in your map, you will be brought to this view!
 
 <button onclick="toggle('gif6')">Show/Hide Animation</button>
 <div id="gif6">
