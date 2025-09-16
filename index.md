@@ -10,7 +10,7 @@ nav_order: 1
 - Hands-on activities: 60-90 min
 
 ## Why Data Visualization? 
-Data Visualization tools allow you to take large amounts of text, and make create meaning from it. Data Visualization tools can often help you tell your research stories more effectively. When used appropriately data visualization tools and techniques can help make your information easier to understand. Multiple tools are used throughout this workshop in order to expand your Data visualization and mapping skill sets. 
+Want your research project to stand out? Looking for ways to engage an audience? Data visualization tools can help you tell your research stories with clarity and interest. This workshop uses basic mapping, word clouds, and spreadsheets to introduce participants to a variety of visualization techniques. 
 
 ## Learning objectives
 
