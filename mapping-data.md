@@ -60,7 +60,7 @@ In this exercise, you will create visualizations map region and maker visualizat
 - To embed in a website, click on the 3 grey dots to the right of the map name (see above). Next Select **Embed on my site** and copy and paste the HTML code into a public web page.
 
 8. **Extra Credit**: Add another layer to your map - City of Victoria parkades:
-- Download the [private parkade data](http://bit.ly/2MVGNRX){:target="_blank"}  and then save it to a place where you can find it on your computer.
+- Download the [private parkade data](https://hub.arcgis.com/api/v3/datasets/a4590739806148f68b2ce822f9f4146e_2/downloads/data?format=csv&spatialRefId=3157&where=1%3D1){:target="_blank"}  and then save it to a place where you can find it on your computer.
 - Open your **Google Drive** tab in your web browser.
 <img src="images/maps-09.png" style="float:right;width:120px" alt="Google new button">
 - Click on the **New** button on the top left, and then select **File upload**.
