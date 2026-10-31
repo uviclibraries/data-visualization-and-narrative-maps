@@ -9,7 +9,7 @@ parent: Workshop Activities
 In this exercise, you will create visualizations ranging from a pie chart to a bubble chart. Don’t worry if the names of the different charts aren’t familiar to you, you should have a basic understanding of how they work by the end of this workshop. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. 
 
 1. Open [Google Drive](https://drive.google.com/){:target="_blank"} and make sure that you are logged in.<img src="images/sheets-02.png" style="float:right;width:280px" alt="data example">
-- Open [this Google Sheet](http://bit.ly/2JnNeLr){:target="_blank"} that is populated with data for you to create your visualizations 
+- Open [this Google Sheet](https://docs.google.com/spreadsheets/d/1TYaqFqGtFdCFbnS2k-N-tzyVrgSVqspFQ8ZsiM5N5Pw/edit?gid=891709903#gid=891709903){:target="_blank"} that is populated with data for you to create your visualizations 
 - Make a copy of the spreadsheet, by clicking on the menu **File -> Make a copy**
 
 2. **Bar Graph with one column of data:**
