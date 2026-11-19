@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 2
 parent: Workshop Activities
 ---
-# Hands-On Activities Introduction
-
+# Hands-On Self-Directed Introduction
 Please review the following links:
 
 - Read the [Introductory Slides](https://goo.gl/34dXZD){:target="_blank"}
